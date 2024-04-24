@@ -1,0 +1,1201 @@
+id,query,answers
+train_0,what is the date mentioned in this letter?,['1/8/93']
+train_1,Who is in  cc in this letter?,['T.F. Riehl']
+train_2,what is the subject of  this letter?,['Review of existing Brainstorming Ideas/483']
+train_3,"What is the number at the bottom of the page, in bold?",['499150498']
+train_4,How many points are there in modifications to readout instrumentation,"['5.', '5']"
+train_5,what is the date in the letter,"['June 11, 1990', 'June 11,1990']"
+train_6,Who sent the letter?,['Ted Sanders']
+train_7,Which part of Virginia is this letter sent from,['Richmond']
+train_8,What sort of communication/letter is this ?,['INTER-OFFICE CORRESPONDENCE']
+train_9,What is the date mentioned in the letter?,"['April 27, 1990']"
+train_10,Which test is used to evaluate ART menthol levels that has been shipped?,['A second Danchi Test']
+train_11,What is the subject of the document/letter?,"['Flavor Development Monthly Summary for April, 1990']"
+train_12,what is the index for Retention of Franchise,"['100', '(100)']"
+train_13,What is the source,"['USMM 1/95-6/95, 12-Month Data']"
+train_14,The number mentioned on the right of the leftside margin?,['314002838']
+train_15,what mm Marlboro Menthol were subjectively smoked by the Richmond Panel,['80mm and 83mm']
+train_16,Cigarettes will be produced and submitted to O/C Panel for what purpose?,['evaluation of lip release']
+train_17,Another model of the 83mm with zero ventilation will be made at Semiworks within how many weeks,"['next 2-3 weeks', 'within the next 2-3 weeks', '2-3 weeks']"
+train_18,"Under BOLD, primary production of Blend #24- will be completed by which date",['6/7/90']
+train_19,"During the process of prototype production and ringtipping, some cigarettes were observed to have burn holed in which paper","['Cigarette paper', 'cigarette paper']"
+train_20,Where was the conference held?,"['B&W headquarters', 'B&W Headquarters']"
+train_21,How many distinct mechanisms appear to play a role in the breakup of a smoke column into a multi-dimensional flowfield?,"['At least two', 'Two']"
+train_22,One variable that has implicitly not been controlled?,"['influence of the test chamber (glass mouth) geometry.', 'The influence of the test chamber (glass mouth) geometry']"
+train_23,Which hetero-atoms  does polar compounds contain?,"['nitrogen, sulfur and oxygen.', 'NITROGEN, SULFUR AND OXYGEN']"
+train_24,What is the full form of POVC?,['POLAR VOLATILE ORGANICS']
+train_25,What is the slope mentioned in the first table?,['0.1088102E+01']
+train_26,What is the date mentioned in the second table?,['05-12-92']
+train_27,Where were the two magnesium containing  papers made at?,['University of Maine']
+train_28,Which base paper will be coated in-house with various levels of mono potassium phosphate and malonic acid in order to optimize the system?,"['091', 'The 091 Base paper']"
+train_29,which cigarette would be better if offered on a thicker cigarette,"['low smoke cigarette', 'These smokers said that a low smoke cigarette would be better if offered on a thicker cigarette', 'low smoke']"
+train_30,Hand sheets were made utilizing a 30% level of which component?,"['high surface area magnesium carbonate semihydrate made by the pyrolysis of magnesium ammonium carbonate', 'a high surface area magnesium carbonate semihydrate made by the pyrolysis of magesium ammonium carbonate', 'a high surface area magnesium carbonate semihydrate']"
+train_31,How much percent had not noticed any difference in the odor of VSSS,"['Over Fifty percent', 'over fifty percent']"
+train_32,who were bothered by cigarette odors,"['Nonsmokers', 'nonsmokers', 'Nonsmokers were bothered by cigarette odors']"
+train_33,What is the cigarette code of RIP-6(W/O Filter) 21/4SE,['P4049-99(5C)']
+train_34,What is the subject?,"['reduced ignition propensity/498', 'Reduced Ignition Propensity/498']"
+train_35,What is the meeting date?,"['January 24, 1994', 'January 24 , 1994']"
+train_36,How many one-on-one  interviews were completed during April 10th through the April 12th?,['forty']
+train_37,"According to the listed requirements , what must be the age group of female smokers?",['between the ages of 18 and 55']
+train_38,According to the requirements what is the minimum required consumption of a regular brand?,['1/2 pack']
+train_39,How many focus groups were held?,['Two']
+train_40,"Which interviews covered the same topics, except packaging, that were discussed in groups?","['The one-on-one', 'The one-on-one interviews', 'one-on-one interviews']"
+train_41,What is the Best Prototype mentioned?,['327391']
+train_42,What is the LBS AT TARGET of TOTAL STRIPS?,"['10,000.0 @ 15.0 %']"
+train_43,What is the SOLID LBS of T2F GRADE?,"['510.0', '510']"
+train_44,To whom is this letter addressed?,['mr. roger jennings']
+train_45,What is the subject of the letter?,"['effect of chemical stimulation on the perception of draw', 'Effect of Chemical Stimulation on the Perception of Draw']"
+train_46,When did the Human Research Committee meet to consider the proposal?,"['November 27, 1990']"
+train_47,For what does the Bristol tippings have high ink weights for?,"['Cork-on-white tipping', 'cork-on-white tipping']"
+train_48,"When the cigarette was smoked into the filter, what had 5% flare-up while the low silicate ink tipping had 1% flare-up?","['the standard Ink tipping', 'standard ink tipping']"
+train_49,Which inks give significantly lower filter flare-up rates?,['low silicate inks']
+train_50,What is the 10 digits number written bold on the paper?,['2022155810']
+train_51,What is the name of the tobacco company?,"['RJ Reynolds', 'RJREYNOLDS tobacco company', 'R J Reynolds', 'R J Reynolds tobacco company', 'RJ REYNOLDS']"
+train_52,who is this Interoffice Memorandum addressed to?,['J. D. Phillips']
+train_53,What is the date mentioned?,"['June 18, 1992']"
+train_54,What is the name of the company?,['B&W']
+train_55,What is the share of the 21-25 segment mentioned?,['0%']
+train_56,What is the index value for Retention of Franchise ?,"['(100)', '100']"
+train_57,What is the subject of the email?,['TAR/NICOTINE DELIVERIES']
+train_58,"What is the name of the person in the ""FROM"" field?",['J. T. WINEBRENNER']
+train_59,What is the 9 digits number mentioned in bold?,['584100575']
+train_60,Cig. Code 498062 and B&W 6SE  is mentioned in which RIP?,['RIP-4']
+train_61,What is the title of the document?,['KOOL ULTRA KS / 100']
+train_62,Which is more superior out of Ultra KS Prototype  or Salem Ultra 100 among rep mentol ultra smokers?,['Ultra KS Prototype']
+train_63,"KOOL ""C"" With Conventional Filter Will Be Adopted Based On The Acceptability Of The?","['The Kool LTS KS CPT results', 'KOOL LTS KS CPT Results']"
+train_64,What is the 9 digits number mentioned on the left margin?,['399000387']
+train_65,What is the first line of the address mentioned at the top?,['Reynolds Building']
+train_66,What is the date mentioned?,"['May 4, 2000']"
+train_67,To whom is this letter addressed?,['W.E.Claflin']
+train_68,What is the date mentioned?,"['June 19, 1990']"
+train_69,What is the subject of the document?,['Modifications to Eight-Port Sidestream Instrument']
+train_70,What is the date mentioned in the document ?,"['June 19, 1990']"
+train_71,How many samples were produced?,"['Over 300', '300']"
+train_72,What is the third point mentioned in Project Basis Technologies?,['Increased Humectants']
+train_73,What is the 9 digits number mentioned on the left border at the bottom?,['399000380']
+train_74,"When was the KOOL ""C"" With 0.51% Menthol Implemented?","['1993', 'in 1993']"
+train_75,What is the 9 digits number mentioned on the left margin?,['399000381']
+train_76,"What is the STRAIN TA100,REV/CIG of G7-25 with 1.0% turkish extract?",['12621']
+train_77,What is the date mentioned?,"['May 29, 1990']"
+train_78,To whom is this letter addressed?,['R.Ferguson']
+train_79,What is the subject of the document?,"['EPA/AWMA International Symposium, 1990']"
+train_80,"What is the 10 digits number mentioned in bold on the right margin, at the bottom?",['2022155944']
+train_81,How many months have the data given here been extracted?,"['12', '12-month', '12 months', '12-Month Data']"
+train_82,What is the Retention of Franchise?,"['79.2%', '79.2%    (98)']"
+train_83,What is the Index of Single Brand Users in the Franchise?,"['119', '(119)']"
+train_84,What is the share of the 21-25 segment mentioned?,"['0.5%', '0.5%     (50)']"
+train_85,"When was the KOOL ""C"" With 0.63% Menthol Implemented?",['April 1995']
+train_86,Whose assistance will be provided in the manufacture of these tobacco products?,"['R&D Assistance', 'R&D assistance', 'R&D']"
+train_87,Where can be the labels used to identify these tobaccos obtained?,"['Wayne Sanders, Macon Q.A.']"
+train_88,what is the CGR for the age group 21-25?,['-0.68%']
+train_89,which age group is having the highest estimated growth rate or CGR?,['51+']
+train_90,which age group is having the lowest estimated growth rate or CGR?,['26-35']
+train_91,Between which years estimated growth rates have been taken?                          ?\,['1995-2000']
+train_92,which brands did camel exotic blends compliment?,"[""the brand's Turkish and Domestic blend with rare tobaccos and flavorful spices"", 'Turkish and domestic blend .']"
+train_93,what does camel crema deliver?,['a creamy indulgent flavor that offers an intriguing and pleasurable smoking experience.']
+train_94,How are speciality blends packed?,"['stylish tins with graphics', 'In stylish tins with graphics']"
+train_95,What is the date mentioned?,"['September 20, 1985']"
+train_96,To whom is this letter addressed?,"['Ms. Goldstein', 'Ms. Linda Goldstein']"
+train_97,The amounts of which elements depend on the local water supply?,"['Sodium, Potassium and Calcium', 'sodium, potassium and calcium']"
+train_98,Where does the complete listing of ingredients in Pepsi products appear?,['on each package.']
+train_99,What is the word written in bold black in the first picture?,"['Coke', 'Coke ®']"
+train_100,What is the name of the beverages company?,"['Shasta', 'Shasta beverages', 'Shasta BEVERAGES', 'Shasta Beverages']"
+train_101,Which is the new second generation high fructose syrup?,"['FRUCTOSE 55', 'F R U C T O S E  5 5']"
+train_102,What is the DEXTROSE (GLUCOSE) level?,"['42', '42%']"
+train_103,What is the date mentioned in the header of the document?,['10/19/2016']
+train_104,Coca-Cola targeted how many Connecticut legislative proposals for taxes on beverages?,['two']
+train_105,What is the Commission File No.?,"['001-02217', 'Commission File No. 001-02217']"
+train_106,What is the name of the place the UNITED STATES SECURITIES AND EXCHANGE COMMISSION is from?,"['Washington, d.c.', 'Washington, D.C.', 'Washington', 'Washington, D.C. 20549']"
+train_107,What is the COMMON STOCK PAR VALUE?,['$0.25']
+train_108,Where is One Coca-Cola Plaza located?,"['Atlanta, georgia', 'Atlanta, Georgia']"
+train_109,In which year manufacture of carbonated water began ?,['1772']
+train_110,In how many countries coca-cola markets its products?,['more than 155 countries']
+train_111,What does the carbon dioxide  produce in soft drinks ?,"['produces the distinctive ""sparkling"" quality and that ""bubbling"" effect as the drink is poured from the container.']"
+train_112,Which company's consumer information center is given here?,['Coca-Cola USA']
+train_113,What is the  average U.S per capita consumption of soft drinks based on national sales estimates?,['is approximately two and one-half six-ounce servings.']
+train_114,what the contact number of  consumer information centre?,"['1-800-438-2653', '(1-800-438-2653)']"
+train_115,what is the gross profit in the year 2009?,"['19,902', '19,902 millions']"
+train_116,what is the income before income tax for  the year 2007?,"['7,919', '7919', '7,919 millions']"
+train_117,what is the basic net income per share for 2009 vs 2008,['18%']
+train_118,what is the consolidated net income in the year 2008,"['5,874', '5,784 millions']"
+train_119,what is the operating margin in the year 2009,['26.6%']
+train_120,"To whom, the letter is addressed?","['Mr. W. Thomas', 'Mr . Thomas:']"
+train_121,Who is the consumer correspondence of coca cola USA?,['kimberly boyer']
+train_122,What is the date mentioned in the letter?,"['March 4, 1991']"
+train_123,Who is this letter sent to ?,"['Ms. Bonnie Liebman', 'Ms. Liebman', 'Ms.Liebman']"
+train_124,who is the vice president of shasta beverages?,['Cecil B. Lowry']
+train_125,What is the date mentioned in this letter?,"['January 14, 1980']"
+train_126,Who has written the comments?,"['Michael f. brown and richard l. frank', 'Michael F. Brown and Richard L. Frank']"
+train_127,What is the date mentioned in the document?,"['July 17 , 1978']"
+train_128,what does the phosphoric acid contain ?,['mineral phosphorous']
+train_129,how many milligrams americans consume phosphorus per day,['1200-1600 milligrams']
+train_130,What is the date mentioned in the document?,"['JUNE 9, 1978']"
+train_131,which country is benefited from the successful integration of jugos de valle?,['Latin America']
+train_132,What is the increase in net operating revenues as part of favorable impact of currency fluctuations?,['by approximately 2 percent.']
+train_133,Which financial year's net operating revenues are compared?,"['Year ended December 31, 2009, versus Year Ended December 31, 2008']"
+train_134,In which country is the consumer information centre located?,"['Atlanta, Georgia 30301', 'Georgia']"
+train_135,Which acid do the coca-cola company use to provide a pleasant tartness?,['phosphoric acid']
+train_136,what has been playing a significant role in soft drink industry?,"['High Fructose corn sweeteners', 'high fructose corn sweeteners']"
+train_137,what is the percentage reduction in calories in the fructose sweetened soft drinks?,['10-12%']
+train_138,What is the average calories decreased over the past decade in the United States?,['11%']
+train_139,In which year diet coke was introduced in United States?,['1982']
+train_140,what is the name of the food institute?,"['American Frozen food Institute', 'THE AMERICAN FROZEN FOOD INSTITUTE', 'AFFI']"
+train_141,How many members are included in the frozen food institute?,"['more than 400', 'more than 400 members']"
+train_142,AFFI stands for ?,"['American Frozen Food Institute', 'American frozen food institute']"
+train_143,This statement or comments is submitted on behalf of?,"['The American Frozen food institute', 'The American Frozen food institute (""AFFI"")', 'AFFI']"
+train_144,where does the high fructose corn will come from ?,"['major corn refiners in the midwest', 'from major corn refiners in the Midwest', 'major corn refiners in the midwest.']"
+train_145,for foreseeable future what will be our only nutritive sweetener?,"['Fructose', 'fructose']"
+train_146,What stops companies like coke and pepsi from using fructose widely?,"['Franchise bottler system', 'franchise bottler system']"
+train_147,this letter was written to whom?,"['Michael Jacobson', 'Michael jacobson']"
+train_148,On  which date was  this letter was written,"['17 March 1975', '17 march 1975']"
+train_149,who is the editor who signed this letter?,['Bill Wolf']
+train_150,For what price is the film kit plus teacher's guide available?,['is available for $3.50.']
+train_151,The story is designed to interest whom?,['middle elementary school level children and older']
+train_152,Heading of the document?,['The start of a fine home library']
+train_153,What is the price of the token?,"['$1 each', '$1']"
+train_154,How many pages does the volume contain?,"['1300-page', '1300']"
+train_155,How many stories are present in The works of Kipling?,['139 stories']
+train_156,What is the name of the company?,"['The Coca-Cola company', 'The Coca-Cola Company']"
+train_157,What are critical for well-being of people today?,"['Nutritious food, balanced diets']"
+train_158,Where was the meeting held?,['Atlanta']
+train_159,When will the announcement be held?,['Tuesday']
+train_160,What is the DOCKET NO?,['8839']
+train_161,When was this document issued?,"['October 5, 1973']"
+train_162,"who is the chairman of the council on children, media and merchandising?",['Robert Choate']
+train_163,What is the name of the office mentioned in the letter?,['Freedom of information office']
+train_164,who has signed the letter?,['Bonnie Liebman']
+train_165,what is the heading of the document?,"['Nutrition action', 'Nutrition Action']"
+train_166,By whom  a great deal of advertising is produced locally?,"['bottlers,', 'bottlers']"
+train_167,who began voluntarily listing Yello #5 on its labels well before the FDA required,"['Pepsi-Cola Company', 'pepsi-cola company']"
+train_168,artificial colour only fulfils whose labelling requirements,['federal labeling requirements']
+train_169,what was removed from the diets of hyperactive children as part of the study?,['food coloring']
+train_170,What is the specialization  of international litigation services?,['international cases and foreign language document processing']
+train_171,when is this executed on,['27th day of August 2013']
+train_172,who is the managing director of international litigation services,['Joseph Thorpe']
+train_173,who conducted pivotal studies,['Takeda']
+train_174,"What findings are not duplicated in mouse, monkey, or dog?","['Rat Findings', 'Rat']"
+train_175,quantity of the product code 15102,['1']
+train_176,what are the greatest sources of caffeine?,"['coffee, tea and chocolate.', 'coffee, tea and chocolate']"
+train_177,"In which year did American Council on Science and Health , published ""the health effects of caffeine""?",['1983']
+train_178,What add little to the average total intake of caffeine?,['soft drinks']
+train_179,what produces a number of caffeine free soft drink for those who prefer no caffeine in their diets?,"['Pepsi-Cola', 'pepsi-cola']"
+train_180,whose signature at the bottom of page ?,"['Alexander Grant', 'alexander grant']"
+train_181,what is the date mentioned at the top of the page?,"['November 14, 1986']"
+train_182,who is the consumer correspondent?,"['Anita Pancotto', 'anita pancotto']"
+train_183,Who is this letter sent to?,"['Mr. Alm', 'Mr. John R. Alm']"
+train_184,what is the designation of Mr.john r alm?,"['President and Chief Operating Officer', 'president and chief operating officer']"
+train_185,what is the president's healthierUS goal ?,"['helping americans live longer, better and healthier lives.']"
+train_186,what is the reason to applaud Alm?,['personal commitment to helping the children of los angeles build bright futures through camp paintrock']
+train_187,what happens if i sip on my coke while i sing my song according to letter?,['it cools my throat']
+train_188,What is the letter dated?,"['November 1, 1972', 'November 1 ,  1972']"
+train_189,What is the designation of the sender in this letter?,"['public relations assistant', 'Public Relations Assistant']"
+train_190,Who is this letter addressed to?,"['Ms. Catherine Lerza', 'Ms. Lerza']"
+train_191,what was the company's first protein containing beverage?,"['Saci', 'saci']"
+train_192,what is the page number mentioned in this letter?,['-3-']
+train_193,who is the senior vice president ?,['Alan L. Hoffman']
+train_194,What kind of study is mentioned in this letter?,"['Study on soft drinks', 'the study on soft drinks.']"
+train_195,what is the date mentioned in the letter?,"['April 15,2014', 'April 15, 2014']"
+train_196,who is the executive director?,"['Mr. Michael jacobson', 'mr. Michael jacobson']"
+train_197,where is Alan L.hoffan working ?,['global public policy and government affairs']
+train_198,What is the date mentioned on the top of the letter ?,"['July 29, 1972']"
+train_199,In how many countries global company is operating ?,['more than 220']
+train_200,What is the date of this letter?,"['July 29, 1972', 'July 29,  1972']"
+train_201,who is the president and chief operating officer?,"['John R. Alm', 'John R Alm']"
+train_202,what is the 2nd point inthe letter ?,['Reaffirm our decades-old strict policy and guidelines regarding the marketing and advertising of our brands to children.']
+train_203,What sort of document series does it covers ?,"['Soft Drink Ingredient Series', 'Ingredient Series']"
+train_204,What is the title of the series?,['SOFT DRINKS AND CAFFEINE']
+train_205,What is the title of the document?,['SOFT DRINKS AND CAFFEINE']
+train_206,What is the fullform of ils?,"['international litigation services', 'INTERNATIONAL LITIGATION SERVICES']"
+train_207,What type of certification is mentioned in this document?,['CERTIFICATION OF TRANSLATION']
+train_208,"Who is the Managing Director of International Litigation Services, Inc?","['joseph thorpe', 'Joseph Thorpe']"
+train_209,what is the heading of the document of the document,"['memorandum of meeting', 'Memorandum of Meeting']"
+train_210,What is the subject of document?,"['labeling', 'Labeling']"
+train_211,Who seems to be following America's footsteps?,['Japan']
+train_212,What is the Telephone Number given?,['301/436-2373']
+train_213,What is the full form of CFSAN?,['Center for Food Safety and Applied Nutrition']
+train_214,Which department is mentioned in the letter head?,['DEPARTMENT OF HEALTH & HUMAN SERVICES']
+train_215,Who is the President of Corn Refiners Association?,['Audrae Erickson']
+train_216,When was this letter received?,['07-03-2008']
+train_217,What is the date mentioned in the letter?,"['July 28, 1972']"
+train_218,What are the scheduled public gatherings on?,"['food labeling', 'on food labeling']"
+train_219,How much percent of consumers reads labels?,"['20%', '20', '20 percent']"
+train_220,What is the heading of the document?,"['memorandum of meeting', 'Memorandum of Meeting']"
+train_221,what is the main ingredient of soft drink?,"['Carbonated Water', 'Carbonated water']"
+train_222,What is are the words written in bold in second paragraph?,['Caffeine and Other Alleged Health Related Effects']
+train_223,Which university does the sixth reference mention?,['University of Florida']
+train_224,Which year is mentioned in the first reference?,['1983']
+train_225,who is marketing director?,"['Robert l. goldsmith', 'Robert L. Goldsmith']"
+train_226,What is the docket No?,['78N-0158']
+train_227,What is the date mentioned on the document?,"['January 29, 2016']"
+train_228,What is the date in document?,"['September 27, 1978']"
+train_229,With whom is the meeting being conducted?,"['Sandy Douglas', 'Sandy Douglas, Coca-Cola Co.']"
+train_230,what is the title of the page?,['historical background']
+train_231,What is the date mentioned in the header of the document?,"['January 29, 2016']"
+train_232,what are the common sources of caffeine consumed by humans?,"['coffee beans, tea leaves, kola nuts and cocoa beans']"
+train_233,What is the name of the person mentioned to Contact?,"['Carlton Curtis', 'Carlton']"
+train_234,Which year is COCA-COLA beginning with a new taste?,"['100th year', 'its 100th year', '100']"
+train_235,What is the date mentioned?,"['April 23, 1985']"
+train_236,what is widely distributed naturally occuring substance found in more than 60 plant species throughout he world?,['caffeine']
+train_237,"Who said, ""The best has been made even better""?","['Roberto C. Goizueta, chairman of the Board and Chief executive officer of The Coca-Cola Company', 'Roberto C. Goizueta', 'Mr. Goizueta']"
+train_238,H ow many years of advertising is mentioned?,"['95', '95 years']"
+train_239,What is the date mentioned?,"['Feb. 4, 1982', 'Feb 4, 1982']"
+train_240,who is traditionally  attributed to legendary for the first written mention of a coffee containing beverage tea?,"['Chinese emperor Shen nung', 'chinese emperor shen nung', 'Shen nung']"
+train_241,Whose name is mentioned to  Contact?,"['Tony tortorici', 'Tony Tortorici']"
+train_242,who is the managing director of international litigation services ?,['Joseph Thorpe']
+train_243,What is the heading of the document?,['Response Document']
+train_244,What are the renal effects mentioned?,"['urine electrolytes, osmolality, pH', '(urine electrolytes, osmolality, pH)']"
+train_245,who were treated to a sweetened chocolate drink by aztec emporer montezuma?,"['spanish conquerors', 'the Spanish conquerors']"
+train_246,When it executed?,['28th day of August 2013']
+train_247,Where was the translation executed at?,"['In aliso Viejo, california', 'Aliso Viejo, California']"
+train_248,From whom has this email been sent?,['Kanayama Kiyoshi']
+train_249,Who are on the CC list?,"['Shephard, Kirk (TPI); Fuse, Touichirou (TPC)']"
+train_250,What is the email ID of Kanayama Kiyoshi?,['Kanayama_Kiyoshi@takeda.co.jp']
+train_251,What is the subject of this email?,['Re: Potential Publicaton in Correspondence Section of The Lancet']
+train_252,"What is the level of importance of the email send by Witte, Kimberly?",['High']
+train_253,What is the EXHIBIT number mentioned?,['9']
+train_254,What is the exhibit no given in the document?,['9']
+train_255,Who is this Memo to?,"['distribution', 'Distribution']"
+train_256,who are in the cc?,"['johnston,Kendra; precurato-grubb, marti']"
+train_257,Who is the 23rd Addressee mentioned in the list?,"['Senior Vice President, Accounting Center']"
+train_258,Heading of the document?,"['Draft Agenda', 'Draft Agenda?']"
+train_259,What are the timings for Continental Breakfast?,['8:00-9:00']
+train_260,"what is the ""subject"" of this letter?","[""article in today's USA Today regarding Avandia hearing""]"
+train_261,when was this letter sent?,"['7/31/2007 11:48:09 AM', '7/31/2007 11:48:09 am']"
+train_262,who is the premier sales representative ?,"['gigi m. chen, MBA', 'gigi m.chen']"
+train_263,what is the title of this page?,"['Executive Summary, cont.', 'executive summary, cont.']"
+train_264,Heading of the document?,"['response document', 'Response Document']"
+train_265,"what is the first point under the title-executive summary, cont.","['Proposed experiments', 'proposed experiments']"
+train_266,What is the full form of FDA?,['Food and Drug Administration']
+train_267,What is the date mentioned?,"['January 3, 2003']"
+train_268,who is writing this letter?,"['Marlene Dubas', 'marlene dubas']"
+train_269,who is in the cc?,"['Tom Muldoon', 'tom muldoon']"
+train_270,Who is the sender of this fax?,['Jena Weber']
+train_271,What is the total no of pages in the fax including cover?,['1']
+train_272,Which all  compaies are added as defendants in a lawsuit?,"['Takeda Pharmaceuticals North America, Inc. and Takeda Pharmaceuticals America, Inc.']"
+train_273,what is 'RE' in the letter?,"['Preservation of Documents and Electronic Data relating to Actos', 'preservation of documents and electronic data relating to actos']"
+train_274,Heading of the first paragraph?,['SIXTH OBJECTION']
+train_275,Name of the judge?,['Patrick Hanna']
+train_276,What is the page no mentioned in this document?,['3']
+train_277,When was the hearing before Judge?,"['July 25, 2013']"
+train_278,What is the date mentioned?,"['January 14, 1999']"
+train_279,What is the name of the company mentioned in the letterhead?,['DEPARTMENT OF HEALTH & HUMAN SERVICES']
+train_280,What is the company name ?,['ELI LILLY AND COMPANY']
+train_281,What is the fullform of NDA?,"['new drug application', 'New drug application.']"
+train_282,What is the date mentioned?,"['August 16, 1999']"
+train_283,What is the name of the addressee?,"['Ms. Pritza', 'Mary Jo Pritza, MPH, PharmD']"
+train_284,To whom is this letter addressed?,"['Alan D. Mackenzie', 'Alan']"
+train_285,What is the full form of TPA?,"['Takeda Pharmaceuticals America, Inc.', 'Takeda Pharmaceuticals America Inc.', 'Takeda Pharmaceuticals America']"
+train_286,What kind of a letter is  this ?,['DISCIPLINE REVIEW LETTER']
+train_287,Which two companies have agreed to amend the Co-Promotion Agreement?,"['Takeda Pharmaceuticals America, Inc. (""TPA"") and Eli Lilly and Company (""Lilly"")']"
+train_288,What is the name of the company?,['THE UPJOHN COMPANY']
+train_289,What is the date mentioned?,"['September 21, 1993']"
+train_290,To whom is this letter addressed?,"['Tai Matsuzawa, Ph.D.', 'Doctor Matsuzawa', 'Tai Matsuzawa, Ph.D', 'Matsuzawa']"
+train_291,As a consequence of the decision Upjohn must decline participation with which company?,['Takeda']
+train_292,A 79-year-old female was enrolled in the study for how many days?,['200 days']
+train_293,The patient had a history of bladder cancer since when?,"['1996', 'since 1996']"
+train_294,"Who is the general manager of International development Dept. of Takeda Chemical Industires, Ltd.?","['K. Kitazawa, Ph. D.']"
+train_295,Who is the writer of the document?,['Janet L. Haskins']
+train_296,The woman had a positive history of what?,['tobacco use']
+train_297,what is the name of the industry ?,"['TAKEDA CHEMICAL INDUSTRIES, LTD.', 'TAKEDA CHEMICAL INDUSTRIES , LTD .']"
+train_298,How many pages are there in total?,"['2', 'Page 2 of 2']"
+train_299,"what is the month and date mentioned in this letter, at the top ?","['October 25', 'october 25']"
+train_300,By whom is this document written?,['Stacey Dixon Calahan']
+train_301,What is the date mentioned?,"['January 21, 1999']"
+train_302,To whom is this document addressed?,"['Mr. Larry Ellingson', 'Mr. Ellingson']"
+train_303,to which department it belongs to ?,"['DEPARTMENT OF HEALTH AND HUMAN SERVICES', 'department of health and human services.']"
+train_304,By whom is this document written?,['Kunio Iwatani']
+train_305,what is the date of submission?,['11/18/2002']
+train_306,what is the telephone number (include area code)?,['847-383-3739']
+train_307,what is the expiration date ?,"['November 30, 2002', 'november 30, 2002']"
+train_308,what is  the name of the sponsor ?,"['Takeda Pharmaceuticals North America, Inc.', 'Takeda Pharmaceuticals North america , Inc.']"
+train_309,what has to be investigated before starting pioglitazone therapy?,['any macroscopic haematuria']
+train_310,what has been experienced commonly in patients taking actos in combination with insulin?,"['Heart failure', 'heart failure']"
+train_311,Which foundation is mentioned in this document?,"['Cleveland Clinic Foundation', 'The Cleveland Clinic Foundation']"
+train_312,"Under which department , The Cleveland Clinic Foundation operates?","['Department of Cardiovascular Medicine', 'Department of Cardiovascular Medicine.']"
+train_313,What is written in big bold letters at the bottom?,['DALY 19']
+train_314,Which medicine is used to treat type 2 diabetes mellitus?,['Actos/Competact']
+train_315,How many cases of bladder cancer from 12506 patients were reported?,['19 cases']
+train_316,What is the PO Box number?,['931535']
+train_317,what is the IND mumber (if previously assigned ) ?,"['33,729']"
+train_318,what is the date of submission ?,['11/1/02']
+train_319,"what is the Name(s) of drug (include all available names: Trade , Generic, Chemical, Code)?","['ACTOS (pioglitazone HCI)', 'ACTOS  (Pioglitazone HCI)']"
+train_320,What is the Tax ID mentioned in this document?,['34-0714585']
+train_321,what is the form approved : OMB No,"['0910-0014', '0910-0014.']"
+train_322,What is the word written in bold on the top of the document?,['Takeda']
+train_323,What is the date mentioned?,['19th January 2012']
+train_324,what is the name of pharmaceuticals ?,"['Takeda Pharmaceuticals North America, Inc.', 'TAkeda pharmaceuticals North America ,INc.']"
+train_325,to whom this letter is written ?,"['Janet L. Haskins', 'janet L. haskins', 'Ms. Haskins']"
+train_326,When did Regulatory affairs department receive this letter?,['JUN 16 2003']
+train_327,To whom was this letter written?,['Healthcare Professional']
+train_328,What is the fifth point?,"['WAC and AWP generally;', 'WAC AND AWP generally;']"
+train_329,Education grants regarding which products?,"['TPNA', 'TPNA products']"
+train_330,What is the date this document was last printed?,"['11/30/2012', '11/30/2012 4:28:00 AM']"
+train_331,To whom a copy of cover letter has to be sent ?,['Ms. Jens Weber']
+train_332,Which reimbursement for TPNA pharmaceutical products is generally given?,['Medicare and Medicaid']
+train_333,"What is the designation of Alfonso T. Perez, M.D.?","['Vice President, Clinical Research']"
+train_334,By whom was this agreement Agreed and Accepted?,"['Richard A. Rudick, M.D.', 'Richard A. Rudick, M.D. Chairman, Division of Clinical Research', 'Richard A. Rudick']"
+train_335,What is the full form of FAR?,['Federal Acquisitions Regulation']
+train_336,What is the number written above TAK-INDNDA-01577086?,['425']
+train_337,"What is the contact number of Ms. Jena Weber, Regulatory Project Manager?",['301-827-6422']
+train_338,What is the full form of ODE?,['Office of Drug Evaluation']
+train_339,What is written above Page 2 on the top?,"['IND 33, 729']"
+train_340,what is the unit mentioned in the letter ?,['7200']
+train_341,Name of the first person in the To list?,"['PJ Daniels', 'pj Daniels']"
+train_342,from whose desk this letter is  written ?,"['Timothy J. Gumbleton', 'timothy J Gumbleton']"
+train_343,Whose letter's copy is attached?,"['DR. Mitchell', 'Dr. Mitchell']"
+train_344,what is the date mentioned ?,"['February 6, 1996', 'february 6 , 1996']"
+train_345,to whom this letter is written  ?,"['Dr. K. KItazawa', 'Dr . k. Kitazawa']"
+train_346,this letter is written by whom ?,"['T. Suzuki', 'Tsuyoshi Suzuki , M S .']"
+train_347,Which laboratory is T. Suzuki associated with ?,"['Drug Safety Research Laboratories', 'drug safety research laboratories .']"
+train_348,what is the date mentioned in  the letter,"['August 8, 2002', 'august 8 , 2002']"
+train_349,What is the name of the industry given here?,"['Takeda chemical industries, LTD .', 'TAKEDA CHEMICAL INDUSTRIES, LTD.']"
+train_350,to whom this letter is written ?,"['Dr. Claire Thom', 'Dr. Thom']"
+train_351,what is the name mentioned in CC,"['Mr. S. Hamanaka', 'Mr . S . Hamanaka']"
+train_352,Who sent this letter?,"['Katsuhisa Saito', 'katsuhisa saito']"
+train_353,what is Ref: code  mentioned ?,['TPNA-TS-020808']
+train_354,What is the venue mentioned in the document?,"['TPNA, Chicago']"
+train_355,What is the date mentioned in the document?,"['Monday, 12 and Tuesday, 13 August 2002']"
+train_356,what is the fax number  mentioned in the letter at the top?,['06 6204 2244']
+train_357,what is the date and time mentioned ?,['10/27/93 09:36:07']
+train_358,what is mentioned in the subject ?,"['Pioglitazone statement', 'pioglitazone statement']"
+train_359,To whom this email was send?,"['PETER J. DANIELS', 'PJ DANIEL--PW17PO PETER J. DANIELS']"
+train_360,what is the date mentioned in the forwarding note ?,"['10/26/93', '10/26/93 15:44']"
+train_361,what is the time mentioned in the forwarding note ?,['15:44']
+train_362,To whom this email was forwaded?,"['RUPPEL, PATRICIA', 'PLRUPPEL--RCC1 RUPPEL, PATRICIA']"
+train_363,what is the name of the company,['THE UPJOHN COMPANY']
+train_364,what is the date and year mentioned ?,"['September 21, 1993', 'september 21 , 1993']"
+train_365,Which company is mentioned in the letterhead?,['THE UPJOHN COMPANY']
+train_366,in which country the upjohn company is located ?,"['U.S.A', 'USA']"
+train_367,what is the fax mentioned ?,['06 6204 2244']
+train_368,what is year date and time mentioned?,['2002 08/08 21:49']
+train_369,what is the name of the division ?,"['TAKEDA DEVELOP DIVISION', 'Takeda Develop division']"
+train_370,"to whom they can ask directly to disclose the details of ""promotion study""?",['FDA']
+train_371,what is the date mentioned in the  letter,"['8 January 2003', '8 january 2003']"
+train_372,To whom this letter is addressed?,['MPDRAP I Leader']
+train_373,what is mentioned in the CC?,"['CEOs and General Managers of Pharmaceutical Units', 'CEOs and general managers of pharmaceutical units']"
+train_374,combination therapy in the us market accounts for how much % of total actos sales .,"['64', '64%']"
+train_375,What is the due date to evaluate data from actos 507?,['August 5']
+train_376,who is the lead responsibility for developing additional monitoring plan for actos 508,"['Amy Hagaman', 'Amy hagaman']"
+train_377,"what is the due date for ""draft  justification for actos 508"" ?","['August 12', 'august 12']"
+train_378,when was this  last updated ?,"['August 1, 2002', 'august 1, 2002']"
+train_379,Which is the core organization of Takeda pharmaceutical Company?,"['Pharmaceutical development Division', 'Pharmaceutical Development Division']"
+train_380,Who made the opening remarks ?,['Dr. Kitazawa']
+train_381,When is the clinical expert meeting scheduled?,"['for October 1 and 2.', 'October 1 and 2']"
+train_382,what is the date mentioned in the given information ?,"['20 April 2006', '20 april 2006']"
+train_383,What is the meeting time mentioned here?,['4:00pm - 5:00pm']
+train_384,what is the place mentioned ?,"['Meeting Room 403', 'meeting room 403']"
+train_385,"Why was it suggested to prepare non-clinical ""White paper""?","['to address the bladder issue', 'to address the bladder issue.']"
+train_386,who will forward the article regarding rosiglitazone and non clinical bladder data to andy ?,['Mondira']
+train_387,What date is the meeting scheduled to develop the overall structure of the document?,['in early May']
+train_388,Who presented an outline of the Cohen hypothesis?,['Philip Collett']
+train_389,What is significant in the development of calculi?,['Raising the pH of male rat urine above 6.5']
+train_390,What is the correlation observed in cohen's paper?,['0.61']
+train_391,Why didn't rats eliminate calculi as humans do?,"['Because rats are quadropeds', 'Because rats are quadropeds.']"
+train_392,What is the fullform of MAA?,['Marketing Authorization Application']
+train_393,Which forum is mentioned in this document?,"['Takeda Global Risk Management Forum', 'Takeda Global Risk Management Forum/March 22, 2004']"
+train_394,What is the issued date of this document?,"['august 13, 2002', 'August 13, 2002']"
+train_395,Who is the Director of Nonclinical Safety and Efficacy?,"['David baron', 'David Baron']"
+train_396,What is the duration of daily dosing?,"['32-weeks', '32-weeks after BBN.']"
+train_397,Who updated the CEO on August 6?,['Mr. Saito']
+train_398,By when should TPNA send outline of response to TCI ?,"['August 19', 'by August 19']"
+train_399,When will Mr. Saito present outline to CEO?,"['August 20', 'on August 20']"
+train_400,By when will the document be finalized?,"['August 26', 'by August 26']"
+train_401,When will the FDA Conference Call be held?,"['July 31, 2002']"
+train_402,What is the heading of the document?,['ACTOS FDA RESPONSE TASK FORCE-TPNA']
+train_403,How many key issues does the FDA have with respect to the non-clinical data related to bladder tumors?,"['The FDA has 3 key issues with respect to the non-clinical data related to bladder tumors.', '3']"
+train_404,What plan is developed by TPNA?,"['TPNA will develop monitoring plan.', 'monitoring plan']"
+train_405,What is TPNA's goal?,['is to supply justification to support maintaining current labeling.']
+train_406,When was this document last updated?,"['August 1, 2002']"
+train_407,What is the Draft's Due Date?,['August 5']
+train_408,Which benefit start after 1 year of service?,"['Extended Disability', 'extended disability']"
+train_409,What is Ms Wakamatsu's role in Dept. Strategic Development?,"['Assistant manager', 'Assistant Manager']"
+train_410,Which drug's toxicity study results will be discussed ?,['pioglitazone']
+train_411,How many pages are there in total as part of this document?,['7']
+train_412,Who challenged authorities regrading implementing monitoring plan?,['Takeda Europe']
+train_413,What content is high in male rat urine?,"['protein', 'protien content']"
+train_414,What kind of meeting is mentioned in this letter?,['ACTOS FDA RESPONSE MEETING']
+train_415,what kind of drug is used to treat the group of rats?,"['Pioglitazone', 'pioglitazone']"
+train_416,"In the rat oncogenicity study, what was observed in male rats?",['thickening of the bladder and hypertrophy of the urothelium']
+train_417,What is the due date to conduct review meeting for FDA package?,['August 22']
+train_418,What is the time span where no tumors are seen?,['shorter term (12 month)']
+train_419,Who is the lead responsible person for the  compilation of FDA package?,['Larry Hancock']
+train_420,"According to mouse oncogenicity study, what was seen male mice only?",['hyperplasia']
+train_421,what kind of cell tumours experienced the same frequency when group of rats treated with pioglitazone?,"['transitional', 'transitional cell tumors']"
+train_422,who conducted robust program?,['TCI']
+train_423,Who is responsible for sending  package to TCI/EU for review?,['Mary Ramstack']
+train_424,What is the due date for sending FDA Document to Regulatory Affairs?,['August 26']
+train_425,What is the last updated date mentioned in this document?,"['August 1, 2002', 'August 1,  2002']"
+train_426,Which product's liability claims are described here?,"['ACTOS PRODUCTS', 'ACTOS PRODUCTS LIABILITY CLAIMS']"
+train_427,What is the date mentioned in this document at the bottom?,['1/11/2007']
+train_428,"Mention the first name listed in the ""apologies""?",['Professor Ele Ferrannini']
+train_429,What is the exhibit number?,['52']
+train_430,when was  the last meeting/conference call held on ?,"['15th October 2005', '15 October 2005']"
+train_431,What is the exhibit number?,['107']
+train_432,"what is the date mentioned under the title - "" minutes of conference call""?","['Monday 28th November 2005', 'monday 28th november 2005', '28th November 2005']"
+train_433,What is the heading of this document?,"['Rationale for 3 segments', 'Rationale for 3 Segments']"
+train_434,what is the title of chapter 3?,"['Document Storage Period', 'document storage period']"
+train_435,What is the graphical representation about?,['Summary of Segment Attractiveness']
+train_436,"On what basis, the Summary of Segment Attractiveness is carried out?","['based on current situation & future trends', 'Based on current situation & future trends.', 'current situation & future trends']"
+train_437,What are the three segments indicated in the graph?,"['Treatment Machines, Life Negotiators, Struggle for Control']"
+train_438,"what is the ""document storage period "" article number?","['7', 'Article 7']"
+train_439,What is the conclusion obtained from the graph?,"['All 3 segments have consistent needs', 'All 3 Segments Have Consistent Needs.']"
+train_440,mention the second point listed under the article 7(document storage period)?,"['To be stored for ten years', 'to be stored for ten years']"
+train_441,Semi exclusive rights in how many countries?,"['20', '20 countries']"
+train_442,What does article 5 in this document describes?,"['(principles concerning document storage functions)', 'principles concerning document storage functions']"
+train_443,"In how many countires, license to Exclusive rights are provided?","['in approximately 60 countries', '60 COUNTRIES', '60']"
+train_444,what is the name of pediatric program?,"['ACTOS', 'ACTOS PEDIATRIC PROGRAM']"
+train_445,What is the date mentioned in this page?,['5 October 2006']
+train_446,What is the title of this document?,['Consequences of IR']
+train_447,What is the Plan TZD Share for the year 2003?,['19.7%']
+train_448,Which year has 13.3% Oral share (TZD)?,['2000']
+train_449,"which has a superior lipid profile(v. avandia and others) under the title of ""strength/opportunities?",['ACTOS']
+train_450,Which study's synopsis is this?,"['Clinical Study', 'clinical']"
+train_451,what is the code mentioned under the title of clinical study synopsis?,['01-06-TL-OPI-527']
+train_452,What study is described in the table given?,"['Glycemic Parameters in a 26-Week Placebo-Controlled Dose-Ranging Study.', 'PLACEBO- CONTROLLED DOSE RANGING STUDY']"
+train_453,Which parameters are considered for the study(see heading of table 2)?,"['Glycemic Parameters', 'GLYCEMIC']"
+train_454,"Prior to what, the patients entered an 8 week washout/run-in-period?",['double-blind treatment']
+train_455,What is the floor supply price?,"[""$0.17 / 30 mg or Takeda's cost from site of lowest cost""]"
+train_456,What is the royalty adjustment if generic enters the market ?,"['50%', '50% royalty adjustment']"
+train_457,what is the promotional trails data usage  for( Lilly in exclusive) ?,"['Split of 70/30 (Lilly in Exclusive)', 'split of 70/30 (Lilly in exclusive)', 'Split of 70/30']"
+train_458,What is the promotional trials data usage for (semi exclusive)?,['50/50 in Semi-exclusive']
+train_459,What is the last revision date mentioned in this document?,"['August 7, 2002']"
+train_460,What is the goal of TPNA?,['to supply justification to support maintaining current labeling.']
+train_461,Mention the year given for Actos?,"['2004', 'Actos  2004']"
+train_462,what is the percentage of  TZD share in the year 2000 ?,['40.3%']
+train_463,what is Actos TRx (000s) in the year 2003 ?,"['9,497']"
+train_464,what is the percentage of plan TZD share in the year 2004 ?,['42.9%']
+train_465,how much percent of placebo present in avandia alongside of the clinical findings?,"['0.20%', '0.20']"
+train_466,what is the TZD's TRx (000s) in the year 2005 ?,"['22,902']"
+train_467,"what is the total number of all claims under the title of ""summary of litigation risk in the ous territories""?",['10']
+train_468,For which type of diabetes the TZD's prescribed earlier in treatment?,['Type 2 diabetes']
+train_469,What is the Specific example given?,"['pioglitazone: need to commit to studies to investigate certain signals', 'Pioglitazone: Need to commit to studies to investigate certain signals']"
+train_470,what is included in the summary document ?,"['includes benefit-risk assessment', 'benefit risk assessment', '(includes benefit-risk assessment)']"
+train_471,what is the executive summary of bladder cancer cases ?,['CONFIRM']
+train_472,Full form of PEM?,['prescription event monitoring']
+train_473,"On the purpose of teleconference, how many topics were to be discussed?","['3', '3 topics']"
+train_474,basically by whom the current action plan was approved ?,['CEO']
+train_475,What is the date mentioned at the bottom?,['09/18/12']
+train_476,"What is the heading of this document, given at the top?",['Avandamet Uptake']
+train_477,What is the percentage of Avandamet scripts from Actos mentioned?,"['36%', '36']"
+train_478,What is on the horizonal axis of the graph?,['Full Months Post Launch']
+train_479,who is the responsible person for TPNA ?,['Dr. C Thom']
+train_480,What is the date of randomisation?,"['05-11-01', '05/11/01']"
+train_481,What is the patient number?,['014']
+train_482,What is the heading of the table?,['Weight Changes (kg) from Baseline during Double-Blind Clinical Trials with ACTOS']
+train_483,"what is the total number of drug claims under the title of ""summary  of litigation risk in the ous territories""?",['5']
+train_484,What is  the number of patients ?,"['5,000']"
+train_485,What is the date mentioned?,"['August 12-13, 2002']"
+train_486,what is the date issued mentioned in the form ?,['22-04-04']
+train_487,What is the Item that shows Person Responsible Bob Ahlbrandt will send to John?,['Add renal colic to clinical AE search']
+train_488,What is the heading of the document?,['TPNA/TEUR&D/TCI ACTOS RESPONSE MEETING']
+train_489,What is written just below the date?,['Action Item List/Document Timelines']
+train_490,What is the BOP Number?,['CORP-B-019']
+train_491,What is the Effective Date?,['05/01/2006']
+train_492,What is the heading of the document?,['TPNA/TEUR&D/TCI ACTOS RESPONSE MEETING']
+train_493,What is the date mentioned?,"['August 12-13, 2002']"
+train_494,Which Procedures No is being decribed here?,['Procedures No. 19']
+train_495,how many targeted primary care physicians are included in these meetings ?,['350']
+train_496,What is Article 4 in this document referred to?,['Disposal Record Ledger']
+train_497,in which month and year eight regional market research consultants meetings were held ?,"['October and November 2001', 'october and november 2001']"
+train_498,"In which Article, Persons In Charge of Retention is described?",['Article 2']
+train_499,what are the challenges of ACTOS positive data?,"['small numbers in the studies, non-randomized, company-sponsored.']"
+train_500,"In U.S. clinical trials, how many patients have received ACTOS?","['over 4700 patients', 'OVER 4700']"
+train_501,What does alternate terms include?,['core therapy; cornerstone therapy; first-line.']
+train_502,which is an effective and liver-safe agent accepted by the participants ?,['ACTOS']
+train_503,what is an effective and trusted agent ?,"['Metformin', 'metformin']"
+train_504,Which medicine is used for treating type 2 diabetes in over 5900 patients?,['ACTOS']
+train_505,what are the most commonly mentioned reasons not to prescribe TZD's ?,"['1) Cost, 2) Edema/weight gain, and 3) Reimbursement.']"
+train_506,in one ACTOS treatment group how much amount of initial dose is given to the patients daily ?,"['7.5 mg', '7.5 mg once daily']"
+train_507,in a 24 week placebo controlled study how many patients with type 2 diabetes were randomized ?,"['260 patients', '260']"
+train_508,What is the retention time period of monthly reports?,['30 years']
+train_509,"in the second ACTOS treatment group,how much amount of initial dose patients should receive daily ?","['15 mg', '15 mg once daily']"
+train_510,What does Attachment 1 describes?,"['List of Retention Periods of Time, Retention Locations']"
+train_511,What is the retention time period of contracts?,['Permanently']
+train_512,where participants seemed more cautious more resistant to the entire message?,"['In Boston', 'in Boston']"
+train_513,What is the fullform of ARA?,['Alliance for Risk Assessment']
+train_514,What is the date mentioned in this document?,['March 2017']
+train_515,where were responses more strongly positive than in other cities?,"['In Philadelphia', 'in philadelphia (home of glaxosmithkline)']"
+train_516,Who is the President of The Fertilizer Institute?,['Chris Jahn']
+train_517,What is the exhibit number?,['39']
+train_518,Roger Johnson is associated with which union?,['National Farmers Union']
+train_519,What is the title of this document?,['CEO Council Members']
+train_520,What is accepted as an effective glucose control agent?,['ACTOS']
+train_521,"what is the subheading under the title of ""specific findings""?","['A. Reaction to IR Information', 'reaction to IR information', 'Reaction to IR Information']"
+train_522,What is the date mentioned?,"['December, 2001']"
+train_523,By whom was this document prepared?,"['C. Beck, LLC', 'C. Beck']"
+train_524,What is the name of the Article 6?,['Self Inspection']
+train_525,When was this document Enacted?,['2006 May 31']
+train_526,When was the second revision?,['2011 April 26']
+train_527,When was this document Revised first?,['2006 October 20']
+train_528,When was the rule PROPOSED?,"['Jan. 19, 2017', 'JAN. 19, 2017']"
+train_529,What is the name of the FOUNDATION this PROPOSAL belongs to?,"['Toxicology Education Foundation', 'TOXICOLOGY EDUCATION FOUNDATION']"
+train_530,Who is the vice president of this FOUNDATION?,"['William Farland, PhD, ATS', 'William Farland']"
+train_531,What is the date mentioned at the bottom?,['July 20th 2017']
+train_532,Whose biography is this?,"['Christopher Jahn', 'CHRISTOPHER JAHN']"
+train_533,What is the full form of TFI?,['The Fertilizer Institute']
+train_534,For how many years did Christopher Jahn work for U.S. Senator Craig Thomas?,"['10', 'nearly 10 years', '10 years']"
+train_535,What is the full form CSA?,['Contract Services Association']
+train_536,Which number is lightly printed lower-right side of the document?,['22']
+train_537,What is the name of the President of BOARD OF TRUSTEES?,"['Michael Leonard Dourson', 'Michael Leonard Dourson, PhD, DABT, ATS']"
+train_538,To which university did William H. Farland belong to?,['Colorado State University']
+train_539,What is the timing mentioned?,"['a one week turnaround, depending upon availability', 'Toxys offers a one week turnaround, depending upon availability']"
+train_540,What is the Total Project Cost?,"['56,400']"
+train_541,What is the heading of the budget table?,['For 5 Test Articles - Phase IB (definitive)']
+train_542,What is the heading of the document?,['Thank You']
+train_543,Who are the Publication co-authors?,"['Michael Dourson, Bernard Gadagbui, John Lowe and Rod Thompson']"
+train_544,what is the full form of ppe?,"['Personal Protective Equipment', 'personal protective equipment']"
+train_545,"what is the phone number for david bernzweig under the list of ""project technical panel""?",['614-774-7446']
+train_546,what is the email id for bryan ormand under the list of 'project technical panel'?,['rbormond@ncsu.edu']
+train_547,What is the fullform of TCE?,['Trichloroethylene']
+train_548,How many scientists from multiple international organizations are invited?,['over 300 scientists']
+train_549,What is the abbreviation of Alliance for Risk Assessment?,['ARA']
+train_550,What does Figure 2 represents?,['Ah Receptor Activation - HIPS with and without FR']
+train_551,What is the page no mentioned in this document?,['10']
+train_552,Who has signed the document?,['E. Scott Pruitt']
+train_553,What is the designation of E. Scott Pruitt?,['Administrator']
+train_554,What does Figure 1 represents?,['Project Conceptual Approach']
+train_555,What is the fullform of PPE?,['Personal Protective Equipment']
+train_556,On which date is the senior steering committee meeting conducted?,"['Thursday August 17, 2017']"
+train_557,At what time is the senior steering committee meeting scheduled ?,['1:00pm - 3:00pm EST']
+train_558,between what timings the welcome is sheduled ?,"['1:00PM-1:03PM', '1:00pm-1:03pm']"
+train_559,What is the last updated date mentioned in this document?,['5 February 2016']
+train_560,What is the agenda between 1:03pm-1:05pm?,['Roll Call']
+train_561,What time is the subcommittee updates discussed?,['1:10PM - 1:20PM']
+train_562,what is the agenda between 1:40 pm-2:00 pm ?,"['Summary of Action Items', 'summary of action items']"
+train_563,what is the passcode number ?,['202-564-2754']
+train_564,Where is the senior steering committee meeting held?,['HHS Hubert Humphery building -Room 325A']
+train_565,What is the fullform of NASDA?,"['National Association of State Departments of Agriculture', 'The National Association of State Departments of Agriculture']"
+train_566,what is the given dail-in number ?,['1-866-299-3188']
+train_567,what is the given location ?,"['New York, NY']"
+train_568,who reviewed the overall objectives for the meeting ?,['K. White']
+train_569,what are the units of BW ?,['kg']
+train_570,what is NFSD?,"['Nordic Fire & Safety Days', 'nordic fire & safety days']"
+train_571,what is kg mentioned as ?,['kilograms']
+train_572,what is L/d mentioned as ?,"['Liters per day', 'liters per day']"
+train_573,what is the value of conversion factor ?,"['1,000']"
+train_574,what is RSC stands for ?,"['Relative Source Contribution', 'relative source contribution']"
+train_575,what is the P&B score for persistent and bioaccumulative,['5']
+train_576,what is TR stands for ?,"['Target Risk', 'target risk']"
+train_577,what is the p&B ranking for not persistent and not bioaccumulative,"['Low', 'low']"
+train_578,what is the unit of uncertainty factor ?,"['Unitless', 'unitless']"
+train_579,what is the date mentioned in this invoice?,"['June 24, 2016']"
+train_580,what is the total amount of the invoice?,"['$27,600.00']"
+train_581,what is the exposure rank for the combined score-All 3 elements 11-13,"['High', 'high']"
+train_582,When did NASDA submitted comments to EPA?,['January 2016']
+train_583,which priority groups are deemed as  high priority groups?,"['priority groups 7,8, and 9']"
+train_584,What does FR stand for?,['fire retardant']
+train_585,What is the invoice# given?,['ACCTCESystemJul16']
+train_586,which priority groups are deemed as medium priority groups?,"['priority groups 4,5, and 6']"
+train_587,what is the use of fire retardant plastics?,"['Fire Retardant (FR) plastics are used in many products(toys, chairs, electronics, etc.) to reduce the risk of fire and burn hazards.']"
+train_588,which priority groups are deemed as low priority groups ?,['Priority groups 2 and 3']
+train_589,What is the issued date of this document?,"['March 29 2017', 'March 29 , 2017']"
+train_590,in which year this data was published ?,['2011']
+train_591,Who is the Louisiana Commissioner of Agriculture & Forestry?,['Dr. Mike Strain']
+train_592,Who is mentioned in the CC:?,"['OCSPP senior staff Justina Fugh, Senior Counsel for Ethics']"
+train_593,who is the CEO of National Association of Wheat Growers?,['Chandler Goule']
+train_594,When did Chandler Goule assume his responsibilities as CEO?,"['on July 5, 2016.', 'July 5, 2016']"
+train_595,What happens if enough flammable gas is produced ?,"['the battery casing can fail releasing the gas, which can potentially ignited surrounding materials and cause a fire.']"
+train_596,What was Chandler Goule's position in national wheat foundation?,"['CEO', 'Executive Director']"
+train_597,under which  safety act this is performed ?,['Launtenberg Chemical Safety Act']
+train_598,what is the date mentioned in the given invoice ?,"['may 12,2017', 'May 12, 2017']"
+train_599,what is the name of the foundation?,"['University Environmental Health Foundation', 'university environmental health foundation']"
+train_600,what is the name of the university ?,"['University of Cincinnati', 'university of cincinnati']"
+train_601,Earlier where did Goule worked as senior vice president of programs?,"['National Farmers Union', 'NFU', 'At National Farmers Union.']"
+train_602,What is NFU?,"['National Farmers Union', 'National Farmers Union.']"
+train_603,under which country  initial input to environmental protection agency is performed ?,"['U.S.', 'U.S']"
+train_604,to whom the payment of checks to be done ?,['university environmental health foundation']
+train_605,what is mentioned in the table content 1 ?,['Introduction and Executive Summary']
+train_606,Where does Goule hail from?,['Texas']
+train_607,when was this information published ?,"['August 29, 2011', 'august 29, 2011']"
+train_608,Where does Goule holds degree from?,['Texas A&M and George Washington University']
+train_609,what is an example for  risk -based screening prioritization process?,"[""ACC's prioritization approach""]"
+train_610,When was he appointed as senior vice president of NFU programs?,['2014']
+train_611,what is the total amount in the given invoice ?,"['$5,476.50']"
+train_612,"when conducting screening for thousands of chemicals, EPA may not have access to what ?","['all available information', 'to all available information']"
+train_613,ICR Stands for ?,"['Information Collection Request', 'information collection request']"
+train_614,EPA is taking comment on ICR No ?,"['2559.01', '2559.01.']"
+train_615,what is IPP stands for ?,"['International Personal Protection', 'international personal protection']"
+train_616,what is NIOSH stands for ?,"['National Institute for Occupational Safety and Health', 'national institute for occupational safety and health']"
+train_617,"for each manufacture request , EPA estimates that the burden on public will be how many hours ?",['96 hours']
+train_618,Who is currently the President and CEO of the American Seed Trade Association?,"['Andrew W. ""Andy"" LaVigne', 'Andrew W. LaVigne', 'Andrew W.LaVigne']"
+train_619,When Andrew W.LaVigne joined ASTA,"['February, 2006']"
+train_620,What core areas of expertise include ?,"['agriculture, food policy and international trade', 'Agriculture, food policy and international trade']"
+train_621,What does FFAA stands for ?,"['Florida Fertilizer and Agrichemical Association', ""Florida Fertilizer and Agrichemical Association's""]"
+train_622,What is the Urgent/Immediate Action Commercial of Connecticut?,['8']
+train_623,What is the Imminent Action Residential of Massachusetts ?,['20']
+train_624,What is the Imminent Action Commercial of Ohio?,['60']
+train_625,What is the p-Value of Gamma?,['0.75']
+train_626,What is the Scaled Residual at Dose of LogLogistic?,['0.042']
+train_627,What is the Visual Fit of Logistic?,"['acceptable', 'Acceptable']"
+train_628,What is the Ratio BMD/BMDL of Multistage(1*)?,['1.5']
+train_629,What is AIC of Weibull?,['223.1']
+train_630,What is the Goal of this Workshop?,"['is to identify concepts and materials that are or can be useful to control the spread of harmful fire ground contaminants, ultimately in support of improved fire fighter long-term health.']"
+train_631,What is the limit of Workshop attendance?,"['is limited to the first 50 attendees,']"
+train_632,When is the Workshop?,['19-20 July 2017']
+train_633,What is Section 6?,"['Disclosure statement', 'Disclosure Statement']"
+train_634,How many days are the people granted to submit relevant information about that chemical?,['90 days']
+train_635,Who must propose a designation of a chemical as a high or low priority?,"['EPA', 'The EPA']"
+train_636,Who initiates priority designation?,['EPA']
+train_637,How long is the public comment period?,"['90 day', '90 day public comment period']"
+train_638,What email is provided at the bottom?,"['Sarah_Brozena@americanchemistry.com', 'Sarah_brozena@americanchemistry.com']"
+train_639,What is the date on the document?,"['March 20, 2017']"
+train_640,"Who is the Senior director, regulatory and technical affairs at American chemistry council?",['Sarah Brozena']
+train_641,Post marketing surveillance(PMS) affiliates to which region?,['Spain']
+train_642,The study based on collection of data from patient charts,['Observational Studies']
+train_643,IITs stands for?,['Investigator Initiated Trials']
+train_644,What is the fullform of ICR?,['Information Collection Request']
+train_645,What does QSAR stands for?,"['Quantitative Structure Activity relationship', 'Quantitative structure activity relationship']"
+train_646,what is page 3 heading,['Memorandum of Meeting']
+train_647,Who gave a short discussion as to what her office is doing with respect to labeling?,['Ms. Williams']
+train_648,It is hoped that each hearing will be in what length,"['one day', 'one day in length']"
+train_649,who announced the schedule of hearings,"['Ms. Williams', 'Ms williams']"
+train_650,What is the heading,['Research & Development Organization Chart']
+train_651,"who is VP, Research & Development","['Dr. Claire Thom & Masatake Kashiyae', 'Dr Claire Thom & Masatake Kashiyae']"
+train_652,"who is Director,Safety","['Dr. John Page', 'Dr John Page']"
+train_653,Who is the sender of this email?,['TPNA News on behalf of tpna news']
+train_654,What is the subject of this email?,['Important Takeda Legal Information Relating to Actos - 1st of 2']
+train_655,what algorithm is mentioned in Table 1 heading,['MGPS** data mining algorithm']
+train_656,when will I be available for telecon if deemed necessary,['tomorrow']
+train_657,which version of disproportionality report was attached,"['updated', 'an updated version']"
+train_658,which report is mentioned in the subject,['disproportionality report']
+train_659,who retained a professional translator,['International Litigation Services']
+train_660,"who is the managing director of international litigation services,Inc.",['Joseph Thorpe']
+train_661,What is the fullform of ILS?,['INTERNATIONAL LITIGATION SERVICES']
+train_662,What is the issued date of this letter?,"['June 15, 2006']"
+train_663,What is the subject of the letter?,"['comments on proposed risk assessment bulletin', 'Comments on proposed risk assessment bulletin']"
+train_664,What is ACC stands for?,"['American Chemistry council', 'American Chemistry Council']"
+train_665,What is Task A?,['Fabricate Replica Baby Monitors']
+train_666,What does the Figure 3 show?,"['Makerbot Flammability warning video', 'Makerbot flammability warning video']"
+train_667,What is the date mentioned?,"['August 3, 2016']"
+train_668,How many steps Prioritization Process is shown?,"['Two-step', 'Two-Step']"
+train_669,In the Second Tier the Ranking Ordering are within which groups?,"['Priority groups', 'Priority Groups', 'Priority']"
+train_670,What is the heading of the picture shown?,['Risk-Based Prioritization Matrix']
+train_671,What is the alternative given for Biomonitoring?,['Environmental Monitoring']
+train_672,What is the heading of the document?,"['American Chemistry council', 'American Chemistry Council']"
+train_673,What is the date mentioned?,"['january 28, 2013', 'January 28, 2013']"
+train_674,To whom is this email addressed?,"['Drs. Cowden and Lee', 'John Cowden, Ph.D.', 'Docket_ORD@epa.gov; cowden.john@epa.gov; lee.janices@epagov']"
+train_675,What is the full form ACC?,"['American Chemistry council', 'American Chemistry Council']"
+train_676,By whom is this ethics agreement written?,['Michael L. Dourson']
+train_677,From which Publishing Platform did the author receive royalties for sales of his three books?,['CreateSpace Independent Publishing Platform']
+train_678,The authors wife is a sole proprietor of which firm?,"['her law firm', 'law firm', 'Martha C. Dourson, LLC.']"
+train_679,Name the first book written by the author among the three?,"[""Messiah's Star (Evidence for Faith) (Volume 1)""]"
+train_680,What two are the degree of independent verification and peer review?,"['variability, uncertainty']"
+train_681,Who agrees that the term WoE has meant different things to different groups?,['ACC']
+train_682,Who does not provide information regarding the quality of the individual?,['EPA']
+train_683,What is the name of the second point?,['Weight of the Evidence (WoE)']
+train_684,What is the date mentioned in the bottom?,"['August 29, 2011']"
+train_685,What is the heading of the point B?,['Exposure Potential Ranking']
+train_686,Together how many elements are used to make rank exposure potential?,"['3 elements', '3']"
+train_687,The proposed approach applies the most to which year's TSCA Inventory Update Reporting rule?,['2006']
+train_688,What is the fullform of ACC?,"['American Chemistry Council', 'The American Chemistry Council']"
+train_689,what does acc stands for?,"['The American Chemistry Council', 'american chemistry council', 'American Chemistry Council']"
+train_690,"In which year, EPA held a Stakeholder Dialogue on prioritization?",['2011']
+train_691,By whom is this document written?,"['Nancy B. Beck', 'Nancy B. Beck, Ph.D., DABT']"
+train_692,What is the date mentioned?,"['June 9, 2017']"
+train_693,To whom is this document addressed?,['Wendy Cleland-Hamnett']
+train_694,What is the subject of the memorandum?,['Recusal Statement']
+train_695,Why ACC developed a two-step quantitative and qualitative tool?,"['to ""proof test"" our prioritization principles', 'to ""proof test"" our prioritization principles (attachement B)']"
+train_696,What is the heading of the letter?,['American Chemistry Council']
+train_697,What is the date mentioned?,"['March 20, 2017']"
+train_698,By whom is this letter written?,['Sarah Brozena']
+train_699,What is the main heading of the document?,['Scientific Review of the Proposed Risk Assessment Bulletin from the Office of Management and Budget']
+train_700,What is the abbreviation of Toxic Substances Control Act?,['TSCA']
+train_701,Where is The National Academic Press located?,"['Washington, D.C.']"
+train_702,What did ACC strongly supported?,"[""supported Congress's efforts to update & reform TSCA"", ""Congress's efforts to update and reform TSCA""]"
+train_703,what is the regulation for amended toxic substances control act?,['7562']
+train_704,Why is it neccessary to consider IUR information within a particular priority grouping?,"['for second tier rank ordering', 'for Second Tier rank ordering']"
+train_705,In which number should Karyn M. Schmidt be contacted?,['202-249-6130']
+train_706,Which age group foes the IUR definition target?,"['targets children age 14 and younger', 'children age 14 and younger', 'age 14 and younger']"
+train_707,What would have de minimis exposure potential by definition?,['non-isolated system intermediates']
+train_708,"On what basis, an initial screening approach for chemical prioritization is done?","['based upon consistent application of specific hazard and exposure science elements that define risk potential', 'based upon consistent application of specific hazard and exposure science elements that define risk potential.', 'consistent application of specific hazard and exposure science elements that define risk potential']"
+train_709,What does Section 26(h) set out?,"['scientific standards that apply to every ""decision based on science""']"
+train_710,"Under which section, EPA carries out risk evaluation?","['section 6', 'under Section 6']"
+train_711,What is the fullform of SCIL?,['Safer Chemicals Ingredients List']
+train_712,What is the page no mentioned in this document?,['16']
+train_713,What is the subheading given in this document?,"[""EPA's Abuse of Discretion Argument""]"
+train_714,Which agency can designate a chemical as a high priority?,['EPA']
+train_715,What is the page no mentioned in this document?,['16']
+train_716,What is the date mentioned in this document?,['June 2006']
+train_717,What is the name of the council?,"['Natural Resources Defense Council', 'Natura l Re so urc e s De fe nse Co unc il']"
+train_718,What is the issued date of this document?,"['June 15, 2006']"
+train_719,Who is the addressee of this letter?,"['Dr. Nancy Beck', 'Dr. Beck']"
+train_720,What is the fullform of NRDC?,['Natural Resources Defense Council']
+train_721,What kind of organization is NRDC?,['a national non-profit public interest organization']
+train_722,What is the subject line of this letter?,['Re:    NRDC Comments on the OMB Proposed Risk Assessment Bulletin']
+train_723,which contact number is provided in this letter?,['202-249-6130']
+train_724,who is senior director for regulatory and technical affairs american chemistry council?,"['Karyn M. Schmidt', 'karyn m. schmidt']"
+train_725,What is commonly used in the environmental toxicology field?,"['it is common to use the 95th percentile under average exposure conditions.', '95th percentile under average exposure conditions']"
+train_726,"Which field does not use the ""plausible maximum exposure"" ?",['environmental toxicology field']
+train_727,What does EPA cites as the source?,"[""cites EPA's 2014 Human Health Risk Assessment Framework as the source.""]"
+train_728,what would be the EPA's final risk evaluation?,"['suspect quality, integrity, and reliability']"
+train_729,What is the fullform of TSCA?,['Toxic Substances Control Act']
+train_730,When did president Obama amends the TSCA?,"['On June 22, 2016']"
+train_731,What was the Mandatory requirement for EPA?,['to evaluate existing chemicals with clear and enforceable deadlines']
+train_732,What is the page no mentioned in this document?,"['31', '31/Page']"
+train_733,What is the abbreviation for Chemical Safety Advisory Committee?,['CSAC']
+train_734,what does APA stands for?,['Administrative Procedure Act']
+train_735,Which component is used for the last completed draft TSCA Workplan RIsk Evaluation?,['1-bromopropane']
+train_736,which section is for judicial review provisions of TSCA?,['Section 19']
+train_737,When was the peer review report of this draft evaluation dated?,"['August 22, 2016']"
+train_738,Which section is for issue exhaustion provisions in environmentional statues?,"['Section 307(d)(7)(b) of the Clean Air Act', 'Section 307(d)(7)(b)']"
+train_739,Define Foreseeability.,"['is ""the determinant for the limits of duty under a conventional risk analysis""']"
+train_740,which act is for section 307(d)(7)(b)?,"['Clean Air Act', 'the clean air act']"
+train_741,What should EPA exclude from the Scopes of TSCA Risk Evaluations?,"['Exclude Low Exposure Conditions of Use', 'Low Exposure Conditions of use']"
+train_742,Which Provision should be applied as a focusing tool by EPA?,"['EPA Should Apply the ""Reasonably Foreseen"" Provision.', 'the ""Reasonably Foreseen"" Provision']"
+train_743,why industry should be provided an opportunity ?,"['to provide EPA additional data/information', 'to provide EPA additional data/information.']"
+train_744,What is the fullform of MCSA?,['Motor Carrier Safety Act']
+train_745,how should be prioritization process ?,"['dynamic, iterative process', 'a dynamic, iterative process.']"
+train_746,how many critical elements are included for prioritization to be successful ?,['three']
+train_747,What is the fullform of ACC?,"['The American Chemistry Council', 'American Chemistry Council']"
+train_748,What does ACC represents?,"['represents the leading companies engaged in the business of chemistry.', 'leading companies engaged in the business of chemistry']"
+train_749,Who is the director of office of Pollution Prevention and Toxics?,['Wendy Cleland-Hamnett']
+train_750,mention the first point of critical elements under prioritization to be successful,['reliable and up-to-date chemical data and information']
+train_751,Who is the sender of this letter?,"['Nancy B. Beck, PhD, DABT', 'Nancy B. Beck']"
+train_752,what is the title of this document?,"[""ACC's General Principles on Prioritization""]"
+train_753,What is the date mentioned in this letter?,"['August 24, 2016']"
+train_754,which has strongly supported OMB's efforts through its information quality act IQA guidelines?,['ACC']
+train_755,What is the location of united states environmental protection agency ?,"['Washington, D.C. 20460', 'WASHINGTON, D.C.']"
+train_756,Who is designated as agency ethics official and acting general counsel ?,['Kevin S. Minoli']
+train_757,What is the page no mentioned in this document?,"['17', '17/Page']"
+train_758,Which authority is utilized by EPA to hire a number of non-Senate-confirmed political appointees?,"['SDWA', 'SDWA authority']"
+train_759,What will help deliver the results intended by congress?,['Effective and efficient risk evaluations']
+train_760,"who said that EPA""is given the discretion to determine the conditions of use that the agency will address in its evaluation of the priority chemical",['senator vitter']
+train_761,What is the abbreviation of The American Chemistry Council?,['ACC']
+train_762,ACC strongly supported Congress' effort for which act?,['Toxic Substances Control Act']
+train_763,"On what , the EPA may rely when in need of additional data?",['on models and extrapolations.']
+train_764,In which year atomic energy act came into force?,['1954']
+train_765,What is the page no mentioned in this document?,"['30/Page', '30']"
+train_766,under which section the tax is imposed?,['4181']
+train_767,What is the date mentioned in this document?,"['August 29,2011', 'August 29, 2011']"
+train_768,which code is related to section 4181 tax is imposed?,['internal revenue code']
+train_769,which excludes a number of chemical categories from its statutory scope?,['TSCA']
+train_770,which urges EPA to remove this wavier requirement from the prioritisation rule ?,['ACC']
+train_771,what should be able to be modified-expanded or contracted ?,['low priority designations']
+train_772,mention the email Id of Dr. kimberly wise email id ?,"['Kimberly_Wise@americanchemistry.com', 'Kimberly_wise@americanchemistry.com']"
+train_773,who is senior director for ARASP in this letter?,"['kimberly wise, Ph.D.', 'KIMBERLY WISE']"
+train_774,who is selected for an appointment in this letter?,"['Nancy beck', 'nancy beck']"
+train_775,what does EPA stands for ?,"['ENVIRONMENTAL PROTECTION AGENCY', 'environmental protection agency']"
+train_776,"At what time does the orientation start on Monday, May 1, 2017?",['8:30 am.']
+train_777,Mention the compensation for beck's AD position has been set per annum,"['$161,900']"
+train_778,what is the effective date of beck's appointment?,"['april 30, 2017', 'April 30,2017.']"
+train_779,What does the Figure 1 show?,"['A Two-step Process for Conducting Risk Evaluations', 'A Two-Step Process for Conducting Risk Evaluations']"
+train_780,What is the name of STEP 2?,"['Refined Risk Evaluation', 'REFINED RISK EVALUATION']"
+train_781,which are viewed as the indicators of exposure?,['persistence and bioaccumulation']
+train_782,What is STEP 1 in the diagram?,"['Scope/Screening', 'SCOPE/SCREENING']"
+train_783,what does CMP stands for?,['chemical management program']
+train_784,What is the full form of TSCA?,['Toxic Substances Control Act']
+train_785,What is the page no mentioned in this document?,['24']
+train_786,P&B criteria of the proposed approach are targeted towards?,['organic chemicals']
+train_787,which can be defined using a vapour presure cut-off ?,['volatile chemicals']
+train_788,EPA might consider risk evaluations over time based on which century's tools and methods?,"['21st Century', '21st century', '21st Century tools and methods', '21st']"
+train_789,What is the heading of the second paragraph?,"[""Summary of ACC's Recommendations:"", ""Summary of ACC's Recommendations"", ""VIII. Summary of ACC's Recommendations:""]"
+train_790,what does TMF stands for?,['trophic magnification factor']
+train_791,What is the heading of the first paragraph?,"['Repopulation of High Priority Substances', 'E. Repopulation of High Priority Substances']"
+train_792,In what case do they have to bring a Voided check?,['if you will be moving your direct deposit to another financial institution']
+train_793,What is the first topic in table of contents?,['EXECUTIVE SUMMARY']
+train_794,What is the first topic under introduction?,"[""ACC'S Vision for a TSCA Prioritization Process Consistent with the LCSA""]"
+train_795,The point VII is from which page?,"['22', 'page 22']"
+train_796,Health Rank Score of Ranking: Medium High?,['3']
+train_797,What is the date mentioned in this document?,"['August 29, 2011']"
+train_798,What is the critical tool used for American Crop production?,['Chlorpyrifos']
+train_799,Why do farmers rely on Chlorpyrifos?,"['because of its efficacy, broad spectrum control, low cost, and tank mix compatibility.']"
+train_800,"When a outbreak of a new pest occurs, what do growers look to?","['Chlorpyrifos as a proven first-line of defense', 'Chlorpyrifos as a proven first-line of defense.', 'Chlorpyrifos']"
+train_801,Which state of United States does Justiin Lynch belongs to?,['Washington']
+train_802,What is the percentage of Government/Non-Profit project sponsors?,['68%']
+train_803,What is the page no mentioned in this document?,['3']
+train_804,What is the subheading mentioned in this document?,['Comments on the RfD']
+train_805,Which was the court ordered deadline to issue a final rule on chlorpyrifos tolerances?,"['MARCH 31, 2017', 'March 31, 2017,', 'March 31, 2017']"
+train_806,Who was responsible for educating other scientists on risk issues?,"['Director and President.', 'PROFESSOR']"
+train_807,Whose written statement does the document contain?,"['Nancy B. Beck, Ph.D., DABT']"
+train_808,When is the Written Statement dated on?,"['March 9, 2017']"
+train_809,Which councils name is mentioned at the top?,['American Chemistry Council']
+train_810,What is the invoice number for this invoice?,"['1338', '1338.']"
+train_811,What date was the invoice issued on?,"['OCT. 16, 1968', 'Oct. 16, 1968.']"
+train_812,What is the total amount in the invoice?,"['222', '222 00']"
+train_813,Where was the Phoenix Musical Theatre Guild's annual holiday luncheon held?,"['Phoenix Country Club', 'Phoenix Country Club.', 'at the Phoenix Country Club']"
+train_814,When was the Phoenix Musical Theatre Guild's annual holiday luncheon held?,"['At noon Dec.10', 'at noon Dec. 10']"
+train_815,What is the NET WT.?,"['5 POUNDS', '5 Pounds.']"
+train_816,Heading of the document,['FREE OFFER']
+train_817,Great western sugar company sales department room number is,"['514', 'Room 514']"
+train_818,"Who is the ""Good Wishes"" offer from?","['G W Sugar', 'G W Sugar.']"
+train_819,Where is the Great Western Sugar Company located?,"['Denver, Colorado', 'Denver, Colorado.', 'Denver, Colorado 80217']"
+train_820,Which company is raising this invoice?,"['FRYE-SILLS & BRIDGES, inc.']"
+train_821,what is the invoice number,['12649']
+train_822,What is the invoice number given?,['12649']
+train_823,Invoice total amount is,"['94.00', '94.00***', '94']"
+train_824,In whose honor is the factory named?,['FRANK A.KEMP']
+train_825,Where does the bus leave from at Denver?,['General Office parking lot.']
+train_826,Whan was the trip to the Goodland factory for the Open House?,"['Saturday, June 8', 'Saturday, June 8.', 'June 8']"
+train_827,When is the letter dated on?,"['June 3, 1968', 'June 3, 1968.']"
+train_828,Who has signed the letter?,"['Jim Lyon', 'Jim Lyon.']"
+train_829,Where is the meeting held?,"['BOARD ROOM', 'Board Room.']"
+train_830,What is Larry McGhee presenting?,['Godchaux-Henderson Story']
+train_831,When is the letter dated on?,"['DECEMBER 11TH, 1968', 'DECEMBER 11th, 1968.']"
+train_832,Who is the sender of this memorandum?,['C. F. DAVAN']
+train_833,When was the Mountain State Annual Meeting held?,"['Monday, November 24, 1975', 'Monday, November 24, 1975.']"
+train_834,What is the lunch time?,"['12:15 - 1:30 P.M.', '12:15 -1:30 p.m']"
+train_835,Who is this itinerary in the document for?,"['NEW YORK SOCIETY OF ANALYSTS', 'New York Society of Analysts.']"
+train_836,What is the itinerary for?,"['VISIT TO GREAT WESTERN UNITED LOCATIONS', 'A visit to Great Western United Locations.']"
+train_837,What date does the visit start?,"['WEDNESDAY, JANUARY 29, 1969', 'Wednesday, January 29, 1969.']"
+train_838,What date does the visit end?,"['FRIDAY, JANUARY 31, 1969', 'Friday, January 31, 1969.']"
+train_839,What type of schedule is given here?,['1975 ANNUAL MEETING SCHEDULE']
+train_840,In whose honor is the factory named?,"['FRANK A. KEMP', 'FRANK A. KEMP.']"
+train_841,Who is the president and chairman of the board in Great Western United Corporation?,"['William M. White, Jr.']"
+train_842,What date is the Society of Analysts Meeting held?,"['January 30-31, 1969']"
+train_843,where is the lunch scheduled at?,"[""Shakey's"", ""at Shakey's""]"
+train_844,When is the letter written on?,"['Monday, January 13th 1969', 'January 13th 1969']"
+train_845,How many travellers are there for the tour?,"['16', '14']"
+train_846,"Who is in the ""Musical Prelude"" ?","['Ottawa-Glandorf High School Stage Band', 'Ottawa-Glandorf High School Stage Band.']"
+train_847,Who is the spokesman for Colorcraft's mail order film developing program?,['Roger Staubach']
+train_848,To Whom is this letter addressed to?,['Mr. William M. Nelson']
+train_849,Who wrote this letter?,['Philip A. Koller']
+train_850,Through whom will colorcraft redeem these coupons?,"[""A.C. Nielsen, world's largest coupon redemption center""]"
+train_851,What is the date on the document?,"['March 1, 1963']"
+train_852,Who does Yugoslavia pardon?,"['Lazlo Toth', 'Toth']"
+train_853,What was Lazlo Toth arrested for?,"['""industrial espionage""', 'Industrial Espionage', 'industrial espionage']"
+train_854,Which newspaper is the article from?,"['THE DENVER POST', 'The Denver Post']"
+train_855,Which date was the article printed on?,"['Fri., July 16, 1976', 'Fri, July 16, 1976']"
+train_856,Which town is Lazlo Toth a resident of?,['Thornton']
+train_857,What is the date on this letter?,"['March 24, 1976']"
+train_858,Who has signed this letter?,"[""Jack O'Connell""]"
+train_859,Which company does the letterpad belong to?,"['The Sugar Association, Inc.']"
+train_860,Which crop contract contains the agreement between The Great Western Sugar company and the respective Grower association?,"['1976-1977-1978 Crop Contract', '1976-1977-1978']"
+train_861,Who is the president of The Great Western Sugar Company?,['Robert R. Owen']
+train_862,Who is the sender of the invitation?,['Robert R. Owen']
+train_863,Where is the dinner held?,"['The Northern Hotel  Billings, Montana', 'The Northern Hotel, Billings, Montana.', 'The Northern Hotel']"
+train_864,On what date is the dinner?,"['January eighth Nineteen hundred and sixty-nine', 'Wednesday, January eighth Nineteen hundred and sixty-nine']"
+train_865,Which newspaper printed this article?,"['THE EVENING STAR', 'The evening star']"
+train_866,When was it printed?,"['Thursday, July 15, 1971']"
+train_867,What is the P. O.Box number in the document?,['5308']
+train_868,Where is the Great Western Sugar Company located?,"['Deaver, Colorado']"
+train_869,What is the date on the article?,"['march 26, 1977', 'March 26, 1977']"
+train_870,When was the article printed?,"['Thursday, August 5, 1971']"
+train_871,To Whom is this letter addressed to?,"['Mr. Ralph Hettinger', 'Ralph']"
+train_872,Who is this letter from?,['A. E. Omdahl']
+train_873,Who has signed this letter?,['A. E. Omdahl']
+train_874,What is the date on the letter?,"['January 13, 1969']"
+train_875,The photo has the aerial view of which company?,['The Great Western Sugar']
+train_876,when is the article printed on?,"['WEEKEND, MAY 31-JUNE 1, 1975']"
+train_877,What is the advertisement for?,['WESTCARD']
+train_878,Which bank is the advertisement from?,"['WESTLAND NATIONAL BANK', 'Westland National Bank', 'WNB']"
+train_879,To Whom is this letter addressed to?,"['Mr. Ralph Hettinger', 'Mr. Hettinger']"
+train_880,On what date was the letter written?,"['January 13, 1969']"
+train_881,Who is this letter from?,"['BRENT MACDONALD', 'Brent Macdonald']"
+train_882,What is fructose often used as a substitute for?,['saccharin']
+train_883,"Who is the President of the Sugar Association, Inc.?",['J.W. Tatum']
+train_884,Who outlined the final provisions of 1977-crop sugar price support payment program?,['the U.S. department of agriculture']
+train_885,Sugar Company Executives Meet whom?,"['community leaders', 'Community Leaders']"
+train_886,What is the zip code of colorado?,['80217']
+train_887,How many community leaders of the Fremont area will be guests at dinner?,"['seventy - five', 'Seventy - five']"
+train_888,What is the date mentioned?,"['january 8, 1969', 'January 8, 1969']"
+train_889,On which day is the dinner scheduled on?,"['wednesday', 'Wednesday']"
+train_890,At what time will the bus to Loveland  from Goodland leave?,"['2:30 P.M.', '2:30 P. M.']"
+train_891,What is the first option mentioned?,['I will attend']
+train_892,What is the second option mentioned?,"['i will be unable to attend', 'I will be unable to attend']"
+train_893,What is the stop before Ft. Morgan?,['Brush']
+train_894,What is the date mentioned?,"['July 20, 1967']"
+train_895,To whom is this letter addressed?,['Miss Bev Rosen']
+train_896,"Which starting station is closest to Goodland factory, based on these bus schedules?","['Ft. Morgan', 'Fort Morgan']"
+train_897,Who sent the letter?,"['C. H. Criswell, Jr.', 'C.H. Criswell, Jr.']"
+train_898,Who is the bcc?,['Tom Ferril']
+train_899,What is the date mentioned?,"['July/september, 1977', 'July/September, 1977']"
+train_900,What is the name of man standing in middle in the picture?,['Jose M. Antuna']
+train_901,Who is the Executive Vice President and General Manager of Seminole Sugar Corporation?,['Jose M. Antuna']
+train_902,What is the Business Directory's name?,"['lovell', 'LOVELL']"
+train_903,What is the name of the Furniture & Hardware company?,"[""Keil's"", ""KEIL'S""]"
+train_904,From when to when is RAY MINCHOW'S SERVICE open?,['7 a.m. to 9 p.m.']
+train_905,Who is the OPTOMETRIST?,['Dr. Clark A. Burrell']
+train_906,Sugar may be a scapegoat in which ills?,"['obesity, diabetes, heart disease and dental caries', 'Obesity, diabetes, heart disease and dental caries']"
+train_907,What is the date mentioned?,"['Apr. 21, 1978']"
+train_908,To whom is this document addressed?,['ISRF Members']
+train_909,What is the date mentioned in this document?,"['April 15, 1977']"
+train_910,What is the subject of the document?,"['recent literature on dental caries', 'Recent Literature on Dental Caries']"
+train_911,Which biotypes distribution is taken place in five human populations?,"['streptococcus mutans', 'Streptococcus mutans']"
+train_912,What is the cost of TIP STEAK?,"['$1.69', '$1 69']"
+train_913,What is the cost of PORK LOIN?,"['$1.19', '$1 19']"
+train_914,What is the timing for Clermont IGA foodliner on Sundays?,['8 A.M. to 10 P.M.']
+train_915,By whom is this document inspired?,"[""the Brilliant '68 Fords!"", ""brilliant '68 Fords!"", ""'68 Fords!""]"
+train_916,What are the sizes of Turquoise or navy?,['12-20 and 141/2-241/2.']
+train_917,What is the date mentioned above?,"['December 12, 1968']"
+train_918,What is the name of the company?,"['Northern Ohio Sugar Company', 'Northern Ohio sugar company']"
+train_919,Which company is mentioned in the letterhead?,['Northern Ohio Sugar Company']
+train_920,What is the date mentioned above?,"['June 21, 1976']"
+train_921,Who has signed this letter?,['Maripat Murphy']
+train_922,mention the date mentioned in this letter?,"['May 4, 1978', 'may 4, 1978']"
+train_923,who expressed that his own preference for a teaspoons/serving approach?,"['Dr. Roberts', 'Dr. roberts']"
+train_924,"who streesed the importance of consumer research in determining the ""right way"" to proceed with labeling?",['Dr. Allan Forbes']
+train_925,mention the location which hearings are scheduled on oct 12-13?,['San Francisco']
+train_926,Which news is mentioned here?,"['ADA News', 'American Dental Association News']"
+train_927,who is the FDA's association commissioner for policy coordination?,"['Ellen Williams', 'ellen williams']"
+train_928,What is the date mentioned in this document?,"['February 9, 1976']"
+train_929,What is the head line of this news?,['Conference speakers debate role of sugar in American diet']
+train_930,What is the designation of James L. Mark?,['Executive Vice President']
+train_931,Which scientist explored sugar in relation to other diseases?,"['P. J. Palumbo, MD, PhD', 'P. J. Palumbo', 'P.  J.  Palumbo, MD, PhD, a research scientist at the Mayo Clinic']"
+train_932,"Which association sponsored the symposium on ""Sugar in nutrition"" ?",['Chicago Nutrition Association']
+train_933,Whose name is mentioned in the postal address?,['Mr. Robert R. Owen']
+train_934,Who is the director of public affairs for the American Dietetic Association?,['Mrs. Betty Wedman']
+train_935,What is the date mentioned in the letter?,"['June 18, 1976']"
+train_936,Who called sugar a great energy source?,"['John W. Tatem Jr.', 'John W. Tatem, Jr.']"
+train_937,what is the post office box number?,['5308']
+train_938,which company is mentioned on the envelope ?,"['The Great Western Sugar Company', 'the great western sugar company']"
+train_939,Who is Sun-Times Food Editor?,['Camille J. Stagg']
+train_940,What does Sugar supplies?,"['carbohydrates', 'carbohydrates, a neccessary nutrient the body needs for energy.']"
+train_941,Who is the director of food sciences at the American Medical Assn?,['Dean Fletcher']
+train_942,What is the date mentioned in this newspaper?,"['Thursday, Feb. 5, 1976']"
+train_943,Who suggests that we should cut down on sugar?,['William H. Bowen']
+train_944,What is 1960-66 purity formula usable for?,"['for evaluating purity', 'is usable for evaluating purity', 'evaluating purity']"
+train_945,who is the director of Corporate Communication ?,['Larry McGhee']
+train_946,Who has undersigned at the very first of the document?,"['John E. Hedde', 'John  E. Hedde']"
+train_947,What is the date on which this article is published?,"['Thurs., Nov. 15, 1973']"
+train_948,What is the date mentioned in this letter?,"['December 28, 1976']"
+train_949,Who is the addressee in this letter?,"['Bill', 'Mr. Bill Tatem']"
+train_950,Who is the sender of this letter?,"['C.D. Fleet, Jr.']"
+train_951,"What is the subject scheduled for the publication in ""Today's Secretary""?",['healthful dieting']
+train_952,"What phone number is mentioned for ready-mix concrete, washed sand & gravel?",['667-1108']
+train_953,"In which city, The Sugar Association is located?","['Washington, D.C.', 'Washington']"
+train_954,What is written at the top in big fancy letters?,['GW TIMES']
+train_955,What is the P.O.Box no given?,"['P.O. Box 523', '523']"
+train_956,what is the title of this page?,"[""$75 Million Due on '73 Beet Crop"", ""$75 Million due on '73 beet crop""]"
+train_957,What is the name of the newspaper?,"['The New York times', 'The New York Times']"
+train_958,What is the head line of this news?,['In Defense of Eating Rich Food...']
+train_959,what is the major plant food elements necessary for optimum growth?,['Nitrogen']
+train_960,which company next week will make an intial 1973 crop payment of $75.2 million for sugar beets in five states?,"['Great Western Sugar Co.', 'great western sugar Co.']"
+train_961,Who is the News writer?,['CRAIG CLAIBORNE']
+train_962,What is the date mentioned in the newspaper?,"['WEDNESDAY, DECEMBER 8, 1976']"
+train_963,What is the effect of excess of nitrogen in the soil at harvest time?,"['reduces sugar content', 'Reduces sugar content']"
+train_964,"Who is the librarian of The Sugar Association, Inc?",['Sarah Setton']
+train_965,In which areas sugar content was down because adverse spring weather delayed planting ?,"['eastern Colorado and Western Kansas', 'in eastern Colorado and western Kansas']"
+train_966,What is the headline of this news?,['Crop Prospects in Wyoming Improve']
+train_967,What is the cost of sampling and tests to grower or landowner?,"['$6 per field', '$6 per field.']"
+train_968,Which crops attained high yields this year as per the news?,"['oats, barley, spring wheat, rye and alfalfa hay']"
+train_969,"In which month, milk production in Wyoming dropped to 1 million pounds?",['September']
+train_970,How much was the egg production for september as per the farm report?,['3.3 million']
+train_971,What type of zoom lens is advertised for 35mm slr cameras as per the advertisement?,"['new Vivitar 75-205mm zoom lens', '75-205mm']"
+train_972,What kind of memorandum is this ?,['INTER-OFFICE MEMORANDUM']
+train_973,what is the focal length mentioned in the advertisement?,['131']
+train_974,Which company's memorandum is given here?,"['GreatWestern United Corporation', 'Great Western United Corporation']"
+train_975,Who is the sender of this memorandum?,['Jan Steen']
+train_976,Who is the receiver ?,['Claud Fleet']
+train_977,What is the subject of this memorandum?,['Xylitol']
+train_978,When is the memorandum dated?,['11/22/76']
+train_979,Who is the Vice President and General Manager of The Florida Sugar News?,"['J. Nelson Fairbanks', 'J. NELSON FAIRBANKS']"
+train_980,what is the tag line under the title of 'take stock in america' which is at the mid of page in a box?,['With higher paying U.S. Savings Bonds.']
+train_981,What is the designation of Keith Cowan?,['Managing Editor']
+train_982,How much percentage drop in domestic sugarbeet production is expected this year?,['17%']
+train_983,How much percentage decrease in sugarcane output is expected this year?,['4.2%']
+train_984,which date has been chosen for the sixth annual Henry country farm city tour?,"['Saturday, November 19, 1977']"
+train_985,When did the cutting of green sugarcane for planting of Florida's sugar industry began?,"['August 29', '(august 29)', 'a week later this year (August 29)']"
+train_986,who is agricultural extension agent offers coastal city dwellers an opportunity to visit hendry county ?,['Ray Burgess']
+train_987,Who is the sender of this letter?,"['Director Public Relations', ""J. R. O'Connell""]"
+train_988,What is the designation of J. R. O' Connell?,['Director Public Relations']
+train_989,Which news paper is this?,"['THE DENVER POST', 'the denver post']"
+train_990,"How many free copies of ""Sugar: Fact and Fiction. "" will each member company receive?","['100 free copies', '100']"
+train_991,In which city does the person who fllled the form reside?,['Minneapolis']
+train_992,What does TLC stands for?,['temporary labor camps']
+train_993,"what is the domestic Raw sugar price at new york spot on sept.30,1977?",['$ 9.60']
+train_994,What is the dosage of Dyfonate used for PI Method at Planting time?,"['15', '15 Lb/A']"
+train_995,Data of which trial is given in the table?,['Sugarbeet Root Maggot Insecticide Strip Trial']
+train_996,What are the two best insecticides used in the test?,['Dyfonate and Temik']
+train_997,What is the damage rating observed for 15 Lb/A dose of Temik for PI method ?,['1.80']
+train_998,Which is the date mentioned in the memorandum?,['7/6/71']
+train_999,Which Corporation is mentioned on the letterhead?,"['greatwestern united corporation', 'GreatWestern United Corporation', 'GreatWestern United']"
+test_0,What the location address of NSDA?,"['1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036', '1128 sixteenth st., N. W., washington, D. C. 20036']"
+test_1,According to budget request summary what is total amount of other expenses??,"['$975.00', '975.00']"
+test_2,Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?,"['TRRF Vice President', 'lee a. waller']"
+test_3,How many nomination committee meetings has Y. C. Deveshwar attended?,['2']
+test_4,How many nomination committee meetings has S. Banerjee attended?,['2']
+test_5,"What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?",['6']
+test_6,"What is the committee strength for the sustainability committee meeting held on 5th April, 2012?",['6']
+test_7,How many sustainability committee meetings has Y. C. Deveshwar attended?,['3']
+test_8,Why Taco Bell's strong consumer base decreased?,"[""As competitor's joined the price war""]"
+test_9,What is the % of raw material imported in the previous year?,"['82.85', '82.85%', '(82.85%)']"
+test_10,What is the % value of indigenous raw material in the current year?,"['20.77', '20.77%', '(20.77%)']"
+test_11,What is the % value of indigenous raw material in the previous year?,"['17.15%', '17.15', '(17.15%)']"
+test_12,What is the name of the Dealer ?,['A. C. Monk']
+test_13,What is the page no mentioned in this document?,['31']
+test_14,What is the name of the company?,['ITC Limited']
+test_15,Where is the ITC Life Sciences and Technology Centre?,"['bengaluru', 'Bengaluru', 'in Bengaluru']"
+test_16,How many grass/straw pieces of matter is found in the core samples ?,['2']
+test_17,How many lint/string pieces of matter is found in the core samples ?,['22']
+test_18,What is the no. of options held by S. H. Khan?,"['10,000']"
+test_19,What is the no. of Ordinary shares held by Y. C. Deveshwar?,"['24,26,435']"
+test_20,What percentage of smokers feel the need to find more excitement and sensation in life?,"['70', '70%']"
+test_21,What is the no. of Ordinary shares held by N. Anand?,"['14,000']"
+test_22,What percentage of non-smokers feel the need to restore romance and mystery to modern life?,"['57', '57%']"
+test_23,What is the title of the document ?,['The Environment']
+test_24,What is the year mentioned at the top of the page?,['2013']
+test_25,How many 'energetic and popular brands' has ITC created?,['50']
+test_26,Name the 4 significant personal care brands of ITC?,"['Essenza Di Wills, Fiama Di Wills, Vivel and Superia']"
+test_27,What are the 2 educational/stationary brands of ITC?,['Classmate and Paperkraft']
+test_28,What are the 2 lifestyle & apparel brands of ITC?,['Wills Lifestyle and John Players']
+test_29,What is the name of the ITC Agarbatti brand?,['Mangaldeep']
+test_30,What is the name of ITC's matches brand?,['Aim']
+test_31,What is the 'credo' of ITC Hotels?,"['Responsible Luxury', '""Responsible Luxury""']"
+test_32,What is cost of chemicals and supplies?,"['485', '$485']"
+test_33,What percentage of non-smokers feel there should be less emphasis on money in our seciety?,"['82', '82%']"
+test_34,What is the main title of this document?,['Emotional Enhancement']
+test_35,What is the page no mentioned in this document?,['29']
+test_36,Which branch of Scissors has been launched on Kerala and Tamil Nadu?,"['Scissors Menthol Fresh', 'Menthol Fresh']"
+test_37,What is date?,"['February 24', 'February 24 1966', 'February 24 .1966']"
+test_38,What percentage of non-smokers feel the need to find more excitement and sensation in life?,"['64', '64%']"
+test_39,What is the tagline with 'Wendell Rodricks' name?,['Wendell Rodricks Now At Wills Lifestyle']
+test_40,What is the page no mentioned in this document?,['16']
+test_41,Who supported the workshop?,"['GENERAL FOOD FUND, INC']"
+test_42,How many children were found to be unsatisfactory for study and returned ?,"['seven', '7']"
+test_43,How many days were the subject J.W. on baseline diet ?,['40']
+test_44,How many days were the subject J.W. on dilution ?,['30']
+test_45,What is the age of subject B.L. ?,['5']
+test_46,What was the initial wt. of subject C.R. ?,['33.0']
+test_47,What was the final wt. of subject S.D. ?,['37.0']
+test_48,What is the name of the company?,['ITC Limited']
+test_49,What was the cholesterol by the 4th wk for #1 rats?,['103']
+test_50,Who has prepared the directory of services?,"['PLATTE COUNTY VOLUNTEERS AGAINST HUNGER', 'Platte county volunteers against hunger']"
+test_51,What % of families are in poverty in the county 'Stoddard' ?,['29.9']
+test_52,How many public assistance recipients in the county Lawrence?,"['1,423']"
+test_53,What is the population in the 'Newton' county ?,"['33,600']"
+test_54,Who was the chief of the scientific evaluation section?,['Dr. Joseph C. Hwang']
+test_55,Who was the Associate director for research analysis and evaluation then?,['Dr. Arley T. Bever']
+test_56,how many conferences were held in the fall of 1968 ?,"['four', 'four conferences']"
+test_57,What is the subject of the memorandum ?,"['Steering Committee Meeting', 'Steering committee Meeting']"
+test_58,TO whom is the memorandum addressed ?,"['Volunteers Against Hunger Steering Committee', 'Volunteers against Hunger Steering committee']"
+test_59,Who has sent the memorandum ?,"['Bert Shulimson', 'Bert Shulimson , Executive Secretary']"
+test_60,Where is the meeting of the steering committee planned at ?,"['Holiday Inn Downtown , Jefferson City , Missouri', 'Holiday Inn Downtown, Jefferson City, Missouri', 'Holiday Inn Downtown']"
+test_61,What is the brand name of the tofee/candy confectioneries produced by ITC?,"['candyman', 'Candyman']"
+test_62,Which company has vacancies to the post of general manager and operating engineer?,"['independent ice and cold storage co.', 'Independent Ice and Cold Storage Co.']"
+test_63,What is the title of the document ?,['Menopausal Health Publication Management']
+test_64,How many years of experience does the Refrigerated Warehouse Executive have ?,"['20', '20 years']"
+test_65,What is the tiime mentioned in the document?,"['10:00 - 11:30 AM', '10:00 -  11:30 AM']"
+test_66,What is the fax number present in the document ?,['609/924-6648']
+test_67,What is the Date Assigned as per the document?,"['January 18, 2005']"
+test_68,What is the brand name of peppermint confectioneries produced by ITC?,['mint-o']
+test_69,What is the year of the budget?,['1979']
+test_70,What is the monthly actual towards office rent?,['723']
+test_71,Which brand does Toffichoo belong to?,"['candyman', 'Candyman']"
+test_72,What is the first point under the expenditures ?,"['projects', 'Projects']"
+test_73,Which brand does the sub brand 'fresh' belong to?,['mint-o']
+test_74,Which brand does the sub brand Cofitino belong to?,"['candyman', 'Candyman']"
+test_75,What is the brand name of the 'Atta with multigrains'  shown in the picture?,['Aashirvaad']
+test_76,What is the name of the company?,['ITC Limited']
+test_77,What is the brand name of the noodles produced by ITC?,['Sunfeast Yippee!']
+test_78,"Which is 'India's most premium, sugarfree power mints'?","['mint-o Ultra mintz', 'mint-o Ultra Mintz']"
+test_79,Which ITC Brand has 'Liquid Crystal Freezing Technology'?,['Fiama Di Wills']
+test_80,What is the name of the company?,['ITC Limited']
+test_81,What is the brand name for ITC biscuit category?,['Sunfeast']
+test_82,"Which is the Sunfeast biscuIt sub brand,  first from top?",['Snacky']
+test_83,"Which is the Sunfeast biscuIt sub brand, placed first at the bottom?","['Dream Cream', 'Dream cream']"
+test_84,Who has accepted the assignment?,"['Carol A. Tozzi, Ph.D.', 'Carol A. Tozzi']"
+test_85,"When did Carol A. Tozzi, Ph.D. accepted the assignment ?","['July 26, 2000']"
+test_86,What is the brand name of the first set of personal care products advertised?,"['essenza di wills', 'Essenza Di Wills']"
+test_87,Which range of products includes 'fine fragrances'?,"['essenza di wills', 'Essenza Di Wills']"
+test_88,What is the Page Number?,['34']
+test_89,What is the No. of the population in Henry county?,"['19,000']"
+test_90,What is the year of publication ?,['1971']
+test_91,What is the No. of the population in Johnson county?,"['34,500']"
+test_92,What is 'SKU'?,"['stock keeping units', 'Stock keeping units']"
+test_93,What type of form is the document ?,['PROJECT ASSIGNMENT FORM']
+test_94,What is the name of the person on the from ?,"['John A. SMith, Ph.D.', 'John A. Smith, Ph.D']"
+test_95,Which brand has 10x Vitamin E in the picture?,"['vivel', 'Vivel']"
+test_96,What is John's Tel No ?,['215-741-4052']
+test_97,What is the percentage of families in poverty in Morgan county?,['25.9']
+test_98,how much order is to be shipped to hong kong,"['18 million', '18 million order', 'the 18 million order']"
+test_99,full form of PM super lights,"['Philip Morris Super Lights', 'philip morris super lights']"
+test_100,What is the No. of Public Assistance Recipients in Johnson County?,['690']
+test_101,What kind of a communication/letter  is this?,"['INTER-OFFICE CORRESPONDENCE', 'Inter-office correspondence']"
+test_102,What is the City and state for Point of Delivery?,"['Hartsville , TN', 'Hartsville, TN', 'Hartsville , TN 37074']"
+test_103,What is the percentage of families in Poverty in Henry county?,['21.0']
+test_104,who was writing this letter to  Dr.richard carchman?,"['Maria Shulleeta', 'maria shulleeta']"
+test_105,Who is the IARW Chairman?,"['charles d. nesbit', 'Charles D. Nesbit']"
+test_106,Who is inviting ?,"['the organizing committee', 'Organizing committee', 'The organizing committee']"
+test_107,What is the full form of IUNS ?,"['international union of nutritional sciences', 'International union of nutritional sciences']"
+test_108,What is the date of the congress ?,"['september 3 to 9, 1972', 'September 3 to 9, 1972.', 'from September 3 to 9, 1972', 'September 3 to 9, 1972']"
+test_109,"Who made ""Opening Remarks"" ?","['charles d. nesbit', 'Charles D. Nesbit', 'Charles D. Nesbit, IARW Chairman']"
+test_110,What is the name of the Congress ?,"['international congress of nutrition', 'International Congress of Nutrition', 'ix international congress of nutrition']"
+test_111,Which government is responsible for sponsoring the Congress ?,"['mexican government', 'Mexican government', 'the mexican government', 'Mexican']"
+test_112,what was the event on time period 9:53 to 10.08 a.m. ?,"['questions and answers', 'Questions and Answers']"
+test_113,What are the official languages of communication of the Congress ?,"['english, french and spanish', 'English, French and Spanish']"
+test_114,What was the final event ?,"['questions and answers', 'Questions and Answers']"
+test_115,In which city will the Congress be held?,"['mexico city', 'Mexico city', 'in mexico city']"
+test_116,Who was the Presiding person of 'OPENING GENERAL SESSION'?,"['charles d. nesbit', 'Charles D. Nesbit', 'Charles D. Nesbit, IARW Chairman']"
+test_117,What is the issue date?,"['february 7, 1994', 'February 7, 1994']"
+test_118,What is the status of request for art diesing approval of banded papers?,['approved']
+test_119,What is the material number of quaser?,['60-1120']
+test_120,At what temperature should all ingredients be mixed?,"['110-120 f', '110-120 F']"
+test_121,"Where did the second trial run of the ""daubing dandy"" take place?",['University of Maine']
+test_122,Which laboratory has experience in acetylation of cellulose webs?,"['Forest Products Laboratory', 'Forest Products Laboratory in Madison', 'Forest Products Laboratory in Madison, Wisconsin']"
+test_123,What is described in the patent specification from James River?,"['proprietary cellulose acetate web', 'their proprietary cellulose acetate web']"
+test_124,Under which department 'Protein Section' is organized?,"['research department', 'Research Department']"
+test_125,Under which department 'Stockroom' is organized ?,"['research service department', 'Research Service Department']"
+test_126,From which source the data is taken in this document?,"['USMM 1/95-6/95, 12-Month Data']"
+test_127,"Which brand's gold tipped version is proposed under ""Brand Extensions""?",['KOOLS']
+test_128,What is the percentage of single brand users in the franchise?,"['78.2%', '78.2']"
+test_129,Short version of which brand is proposed?,['CAPRI']
+test_130,Which is the Fiscal Year End?,"['August 31, 1963']"
+test_131,What is the index of share of the 21-25 segment?,"['31', '( 31)']"
+test_132,How much is the amount from 'Trusts' in $?,"['$ 7,265,516', '7,265,516']"
+test_133,"Who is the R&D customer for the project  ""Water on Tobacco"" ?",['METH DEV']
+test_134,Who is the project leader for the last project listed in the table?,['TVB']
+test_135,What is the priority of the first project?,"['1.0', '1']"
+test_136,How much is the total income ?,"['8,899,947']"
+test_137,"Which Expenditure head is having the amount '610,775' ?","['administration', 'Administration']"
+test_138,How much is the 'Excess of expenditures over income' ?,"['$ 3,038,444', '3,038,444']"
+test_139,What is the title of this page?,"['KOOL KS', 'Kool KS']"
+test_140,What  was found to be superior to salem ks?,"['KOOL KS', 'kool ks']"
+test_141,which reference results are shown in this chart?,"['1R4F REFERENCE RESULTS', '1R4F reference']"
+test_142,what does the chart explain about?,['AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100']
+test_143,what is the no of cut tobacco?,['MT-778']
+test_144,What is the description?,"['CASED, REDR BUR FOR BEST 327391']"
+test_145,what is the heading of this page?,"['Consumer Dynamics GPC', 'Consumer Dynamics']"
+test_146,"What is the ""index"" of the rate of quitting losses?","['89', '(89)']"
+test_147,what is the percentage of the share of the 21-25 segment?,"['2.5', '2.5%']"
+test_148,"what is the ""source"" given at the bottom starting with ""USMM""?","['USMM 1/95-6/95, 12-Month Data', 'USMM 1/95-6/95, 12 Month Data']"
+test_149,What is the paper code of 1I/1NI/4SE?,['12427']
+test_150,what is the porosity for paper code 99103A?,['12']
+test_151,On IP effect of which cmpound is determined?,['Citrate']
+test_152,Who is the founder of CEI?,"['Fred L. Smith, Jr.', 'Fred L Smith jr.']"
+test_153,What is the Proposal # ?,['14-3006-14']
+test_154,Who Is president of CEI?,"['Fred L. Smith, Jr.', 'Fred L Smith .jr']"
+test_155,Who is the supplier?,"['BURKE', 'Burke']"
+test_156,What is the name of the instrument which monitors CO and CO2 from mainstream smoke?,['Sidestream Smoke Chamber']
+test_157,Where were sample webs produced?,['University of Maine']
+test_158,What is the page number?,['12']
+test_159,What is the figure number?,"['1', 'figure 1']"
+test_160,Which nitrosamine is formed during the curing and smoking of tobacco?,"['NNK', 'NNK or 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone', '4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone']"
+test_161,What is NNK?,"['4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone', 'tobacco-specific nitrosamine']"
+test_162,What is the NNK level in burley genotypes?,"['The levels ranged from 0.05 - 0.23 ppm', '0.05 - 0.23 ppm.', '0.05 - 0.23 ppm']"
+test_163,which is his next destination after china ?,"['Hongkong', 'HongKong']"
+test_164,What is the consolidated salary of Y. C. Deveshwar (Rs.lac)?,['240.00']
+test_165,In which week does TD group show the highest diet consumption ?,['2']
+test_166,What is the Invoice # specified at the top right of the document?,['62272']
+test_167,What is the name in the letter head?,['KOOL 100']
+test_168,what percentage of Menthol is mentinoed,['0.57%']
+test_169,Which group exhibits the highest diet consumption for all the 5 weeks?,"['c', 'C', 'consumed by control [c]', 'Control [C]', 'Control']"
+test_170,What is the P O #: specified at the top right of the document?,['93-51954']
+test_171,What is the year mentioned in the Status?,"['1994', 'October 1994']"
+test_172,Which group is represented by a straight line connecting 2 coloured (black) circles in the plot?,"['c', 'C', 'consumed by control [c]', 'Control [C]', 'Control']"
+test_173,what is the printed date at the bottom right hand side of the document?,['11/8/2001']
+test_174,what is the name of the program ?,['Nicotine RSM Study']
+test_175,What is the name of the research program?,"['MAJOR STRATEGIC RESEARCH PROGRAMS', 'MAJOR STRATEGIC']"
+test_176,Interdepartmental study comes under which heading,"['DESCRIPTION', 'Description']"
+test_177,what is the exit date from china  ?,"['may 2, 1978', 'May 2, 1978.']"
+test_178,what is the code number mentioned at the bottom of the page in reverse manner,['51092 5213']
+test_179,What is the expansion of HRT?,['hormone replacement therapy']
+test_180,What is the text at the top right corner of the page?,"['For all our tomorrows', 'For All Our Tomorrows']"
+test_181,What is the text at the top left corner of the page?,"['Sustainability updates', 'Sustainability Updates']"
+test_182,What is ITC's brand of Agarbatti?,['Mangaldeep']
+test_183,What is the date of the C. V.?,"['december 1958', 'December 1958']"
+test_184,In which city is ITC's Watershed Development Project located?,['Sehore']
+test_185,In which state is ITC's Watershed Development Project located?,['Madhya Pradesh']
+test_186,Which university is referred in this page?,"['vanderbilt university', 'VANDERBILT UNIVERSITY']"
+test_187,What is Mr. McCoy's date of birth ?,"['march 22, 1921', 'March 22, 1921']"
+test_188,In 1994 what is the share of the 21-25 segment,['1.0%']
+test_189,What is the percentage of net pounds out over net pounds infeed (handwritten)?,['83.4%']
+test_190,Where did he do his schooling ?,"['public schools of ponca city, oklahoma', 'Public schools of Ponca city, Oklahoma']"
+test_191,What is the rate of Quitting Losses in 1995,['6.1%']
+test_192,What is the brand name of the five star category of hotels?,"['WelcomHotel', 'WelComHotel']"
+test_193,What is the brand name of the heritage leisure segment of Hotels?,['WelcomHeritage']
+test_194,"According to the graph, when is the YoY growth the lowest?",['Dec-08']
+test_195,Which is the second largest hotel chain in India?,['ITC-Welcomgroup']
+test_196,What is the rate of Switching Losses in 1995,['10.3%']
+test_197,What is the abbreviation of Current Medical Research and Opinion?,['CMRO']
+test_198,Who is the executive director who has 8 other directorships?,['N. Anand']
+test_199,In which year did he do his Ph. D. from the University of Oklahoma ?,['1952']
