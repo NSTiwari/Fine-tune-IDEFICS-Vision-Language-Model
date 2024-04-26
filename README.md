@@ -19,5 +19,5 @@ This repository demonstrates the data preparation and fine-tuning the Idefics2-8
 - [Vision Language Models](https://huggingface.co/blog/vlms)
 - [LoRA & QLoRA](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/lora-qlora)
 - [Idefics2-8B Vision Language Model](https://huggingface.co/blog/idefics2)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NSTiwari/Fine-tune-IDEFICS-Vision-Language-Model/blob/main/Fine_tune_IDEFICS_Vision_Language_Model.ipynb)
+- [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NSTiwari/Fine-tune-IDEFICS-Vision-Language-Model/blob/main/Fine_tune_IDEFICS_Vision_Language_Model.ipynb)
 
