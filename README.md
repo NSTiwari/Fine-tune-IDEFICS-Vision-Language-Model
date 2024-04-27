@@ -1,5 +1,5 @@
 # Fine tune IDEFICS Vision Language Model
-This repository demonstrates the data preparation and fine-tuning the Idefics2-8B Vision Language Model.
+This repository demonstrates the data preparation and fine-tuning the Idefics2-8B Vision Language Model
 
 ## Vision Language Model
 Vision Language Models are multimodal models that learn from images and text, generating text outputs from image and text inputs. They excel in zero-shot capabilities, generalization, and various tasks like image recognition, question answering, and document understanding.
