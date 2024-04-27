@@ -20,7 +20,7 @@ Vision Language Models are multimodal models that learn from images and text, ge
 
 ## References & Resources:
 
-- Read the [Medium blog]() for step-by-step imeplementation.
+- Read the [Medium blog](https://medium.com/@tiwarinitin1999/ml-story-fine-tune-vision-language-model-on-custom-dataset-8e5f5dace7b1) for step-by-step imeplementation.
 - [Vision Language Models](https://huggingface.co/blog/vlms)
 - [LoRA & QLoRA](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/lora-qlora)
 - [Idefics2-8B Vision Language Model](https://huggingface.co/blog/idefics2)
