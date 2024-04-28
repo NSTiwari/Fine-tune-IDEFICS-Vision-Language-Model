@@ -1,4 +1,4 @@
-# Fine tune Idefics2 Vision Language Model
+# Fine tune Idefics2-8B Vision Language Model
 This repository demonstrates the data preparation and fine-tuning the Idefics2-8B Vision Language Model.
 
 ## Vision Language Model
